@@ -1,0 +1,88 @@
+site_name: PeptideSourceHub Technical Documentation
+site_url: https://docs.peptidesourcehub.net
+site_description: Official technical documentation center for PeptideSourceHub — product specifications, quality control framework, regulatory guidance, and scientific references for research peptides.
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - content.code.copy
+  palette:
+    primary: indigo
+    accent: orange
+  font:
+    text: Inter
+    code: Fira Code
+
+nav:
+  - Home: index.md
+  - Product Specifications:
+    - Overview: specs/index.md
+    - Healing & Recovery:
+      - BPC-157: specs/bpc-157.md
+      - TB-500: specs/tb-500.md
+      - Thymosin Beta-4: specs/thymosin-beta-4.md
+      - ARA-290: specs/ara-290.md
+    - GLP-1 & Metabolic:
+      - Semaglutide: specs/semaglutide.md
+      - Tirzepatide: specs/tirzepatide.md
+      - Retatrutide: specs/retatrutide.md
+      - Cagrilintide: specs/cagrilintide.md
+      - AOD-9604: specs/aod-9604.md
+    - Cosmetic & Skin:
+      - GHK-Cu: specs/ghk-cu.md
+      - Snap-8: specs/snap-8.md
+      - Leuphasyl: specs/leuphasyl.md
+      - Argireline: specs/argireline.md
+      - Matrixyl: specs/matrixyl.md
+    - Growth & GH Secretagogues:
+      - HGH: specs/hgh.md
+      - CJC-1295 (DAC): specs/cjc-1295-dac.md
+      - CJC-1295 (no DAC): specs/cjc-1295-no-dac.md
+      - Ipamorelin: specs/ipamorelin.md
+      - GHRP-2: specs/ghrp-2.md
+      - GHRP-6: specs/ghrp-6.md
+      - PEG-MGF: specs/peg-mgf.md
+    - Nootropic & Anti-Aging:
+      - Semax: specs/semax.md
+      - Selank: specs/selank.md
+      - Epithalon: specs/epithalon.md
+      - DSIP: specs/dsip.md
+      - FoxO4-DRI: specs/foxo4-dri.md
+    - Specialty Stacks: specs/specialty-stacks.md
+  - Quality Control Framework:
+    - Overview: quality/index.md
+    - COA & Purity Analysis: quality/coa-purity-analysis.md
+    - HPLC Chromatography: quality/hplc-chromatography.md
+    - Mass Spectrometry: quality/mass-spectrometry.md
+    - Batch Traceability: quality/batch-traceability.md
+    - Documentation Package: quality/documentation-package.md
+  - Supply Chain & Logistics:
+    - Global Fulfillment: guides/global-fulfillment.md
+    - Shipping & Packaging: guides/shipping-packaging.md
+    - Import Documentation: guides/import-documentation.md
+    - B2B Ordering Process: guides/b2b-ordering.md
+    - OEM & Private Label: guides/oem-private-label.md
+  - Regulatory Reference:
+    - Research-Use-Only Compliance: regulatory/research-use-only.md
+    - Industry Standards: regulatory/industry-standards.md
+    - GMP Guidelines: regulatory/gmp-guidelines.md
+  - Glossary: glossary/index.md
+
+extra:
+  social: []
+
+plugins:
+  - search
+  - minify
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true

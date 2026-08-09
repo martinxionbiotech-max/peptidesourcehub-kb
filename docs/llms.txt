@@ -1,0 +1,40 @@
+# PeptideSourceHub Technical Documentation — LLMs.txt
+> Official technical documentation center — product specifications, quality control framework, regulatory guidance, and scientific references for research peptides. Factory-direct manufacturer since 2009, Shenzhen, China.
+
+## Product Specifications
+- [Specifications Overview](https://docs.peptidesourcehub.net/specs/): 26 research peptides with CAS, MW, purity specs, and research background.
+- [BPC-157](https://docs.peptidesourcehub.net/specs/bpc-157/): Pentadecapeptide, CAS 137525-51-0, MW ~1419.5 Da. Tissue repair research.
+- [TB-500](https://docs.peptidesourcehub.net/specs/tb-500/): Thymosin Beta-4 fragment, MW ~889 Da. Cell migration and angiogenesis.
+- [GHK-Cu](https://docs.peptidesourcehub.net/specs/ghk-cu/): Copper-binding tripeptide, MW ~340.38 Da. Wound healing and collagen synthesis.
+- [Semaglutide](https://docs.peptidesourcehub.net/specs/semaglutide/): GLP-1R agonist, CAS 910463-68-2, MW ~4,113.6 Da. Metabolic research.
+- [Tirzepatide](https://docs.peptidesourcehub.net/specs/tirzepatide/): Dual GIPR/GLP-1R agonist, MW ~4,813.5 Da. Metabolic and cardiovascular.
+- [Retatrutide](https://docs.peptidesourcehub.net/specs/retatrutide/): Triple GIPR/GLP-1R/GCGR agonist, MW ~4,845.5 Da. Next-generation metabolic.
+- [Cagrilintide](https://docs.peptidesourcehub.net/specs/cagrilintide/): Amylin analog, MW ~4,433 Da. Satiety and gastric emptying.
+- [HGH](https://docs.peptidesourcehub.net/specs/hgh/): Recombinant human growth hormone, MW ~22,125 Da. GH secretagogue research.
+- [More product specs](https://docs.peptidesourcehub.net/specs/): All 26 products documented.
+
+## Quality Control
+- [Quality Framework Overview](https://docs.peptidesourcehub.net/quality/): Multi-layer QC system (in-process, release, pre-shipment).
+- [COA & Purity Analysis](https://docs.peptidesourcehub.net/quality/coa-purity-analysis/): 10-field COA, red flags, HPLC reading guide.
+- [HPLC Chromatography](https://docs.peptidesourcehub.net/quality/hplc-chromatography/): Reverse-phase C18 methodology, peak area analysis.
+- [Mass Spectrometry](https://docs.peptidesourcehub.net/quality/mass-spectrometry/): ESI-MS and MALDI-TOF for peptide MW confirmation.
+- [Batch Traceability](https://docs.peptidesourcehub.net/quality/batch-traceability/): Lot numbering, audit trail, OEM mapping.
+- [Documentation Package](https://docs.peptidesourcehub.net/quality/documentation-package/): COA, MSDS, stability data, residual solvents.
+
+## Supply Chain & Logistics
+- [Global Fulfillment](https://docs.peptidesourcehub.net/guides/global-fulfillment/): 4 carriers, transit times by region, Shenzhen center.
+- [Shipping & Packaging](https://docs.peptidesourcehub.net/guides/shipping-packaging/): Vacuum-sealed, insulated, temperature-monitored.
+- [B2B Ordering Process](https://docs.peptidesourcehub.net/guides/b2b-ordering/): 4-step process, tiered wholesale pricing.
+- [OEM & Private Label](https://docs.peptidesourcehub.net/guides/oem-private-label/): Custom labeling, documentation, batch mapping.
+- [Import Documentation](https://docs.peptidesourcehub.net/guides/import-documentation/): HS codes, country-specific requirements, customs procedures.
+
+## Regulatory Reference
+- [Research Use Only Compliance](https://docs.peptidesourcehub.net/regulatory/research-use-only/): RUO declaration, jurisdiction-specific notes.
+- [Industry Standards](https://docs.peptidesourcehub.net/regulatory/industry-standards/): ISO 9001, GMP, USP, Ph.Eur., ICH Q7.
+- [GMP Guidelines](https://docs.peptidesourcehub.net/regulatory/gmp-guidelines/): Facility, documentation, process validation.
+
+## Glossary
+- [Peptide & QC Terminology](https://docs.peptidesourcehub.net/glossary/): 35+ terms covering analytical methods, peptide chemistry, QC, and supply chain.
+
+## Main Site
+- [PeptideSourceHub](https://peptidesourcehub.net): Factory-direct research peptide manufacturer — 58 SKUs, B2B wholesale.
