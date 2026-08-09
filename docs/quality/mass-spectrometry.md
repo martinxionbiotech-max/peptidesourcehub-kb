@@ -90,4 +90,4 @@ MS/MS is particularly valuable for:
 - [HPLC Chromatography Guide](hplc-chromatography.md)
 - [COA & Purity Analysis](coa-purity-analysis.md)
 - [Quality Control Framework](index.md)
-- [Product Specifications](../specs/)
+- [Product Specifications](../specs/index.md)

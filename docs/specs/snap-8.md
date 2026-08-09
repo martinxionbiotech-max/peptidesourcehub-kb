@@ -98,6 +98,31 @@ Yes — this is a common research combination. Snap-8 targets SNARE complex asse
 
 ≥99% by HPLC with ESI-MS identity. Batch-specific COA included. For cosmetic-grade bulk orders, lower purity grades may be available — contact us for specifications.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Blanes-Mira C et al. "Small peptides patterned after the N-terminus domain of SNAP25 inhibit SNARE complex assembly and regulated exocytosis." *J Neurochem*. 2004;88(1):124–135. | 14675156 | Snap-8 design and mechanism: mimics SNAP-25 N-terminal domain to inhibit ternary SNARE complex assembly, reducing ACh release |
+| Gorouhi F & Maibach HI. "Role of topical peptides in preventing or treating aged skin." *Int J Cosmet Sci*. 2009;31(5):327–345. | 19570099 | Review of cosmetic peptides including Snap-8; mechanism as SNAP-25 competitor for anti-wrinkle research vs botulinum toxin |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **N-Terminal Acetylation** | Acetyl cap protects against aminopeptidase degradation; C-terminal amidation protects against carboxypeptidase |
+| **Neutral pH (5.0–7.0)** | Stable; compatible with cosmetic formulation conditions at standard pH |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Met⁵ residue susceptible to oxidation — protect from oxidative conditions |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Argireline (Acetyl Hexapeptide-8)** | [argireline.md](argireline.md) — SNARE complex inhibitor |
+| **Leuphasyl (Pentapeptide-18)** | [leuphasyl.md](leuphasyl.md) — δ-opioid receptor agonist for fine lines |
+| **Matrixyl (Palmitoyl Pentapeptide-4)** | [matrixyl.md](matrixyl.md) — Matrikine signaling for collagen synthesis |
+| **GHK-Cu (Copper Tripeptide)** | [ghk-cu.md](ghk-cu.md) — Copper peptide for wound healing |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

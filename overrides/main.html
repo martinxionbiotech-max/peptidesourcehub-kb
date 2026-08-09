@@ -48,7 +48,10 @@
     "Solid-Phase Peptide Synthesis"
   ],
   "sameAs": [
-    "https://peptidesourcehub.net"
+    "https://peptidesourcehub.net",
+    "https://www.linkedin.com/company/peptidesourcehub",
+    "https://www.wikidata.org/wiki/Q_PENDING",
+    "https://twitter.com/PSH_Research"
   ]
 }
 </script>
@@ -89,6 +92,31 @@
   "@type": "FAQPage",
   "@id": "{{ config.site_url }}{{ page.url }}#faq",
   "mainEntity": {{ page.meta.faq_json }}
+}
+</script>
+{% endif %}
+
+{% if page.meta and page.meta.schema_type == 'MedicalStudy' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalStudy",
+  "@id": "{{ config.site_url }}{{ page.url }}#study",
+  "name": "{{ page.title }}",
+  "description": "{{ page.meta.description }}",
+  "publisher": {"@id": "https://peptidesourcehub.net/#organization"},
+  "mainEntityOfPage": {"@id": "{{ config.site_url }}{{ page.url }}"},
+  "status": "Completed",
+  "studySubject": {
+    "@type": "MolecularEntity",
+    "name": "{{ page.title }}",
+    "description": "{{ page.meta.description }}"
+  },
+  "healthCondition": {
+    "@type": "MedicalCondition",
+    "name": "{% if page.meta.study_condition %}{{ page.meta.study_condition }}{% else %}Research peptide characterization study{% endif %}"
+  },
+  "dateModified": "{% if page.meta.date %}{{ page.meta.date }}{% else %}2026-08-09{% endif %}"
 }
 </script>
 {% endif %}

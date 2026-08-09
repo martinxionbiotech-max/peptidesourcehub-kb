@@ -98,6 +98,31 @@ Lyophilized: 2–8°C, desiccated, 24-month stability. After reconstitution, ali
 
 Yes — common research combination. CJC-1295 provides sustained GHRH signal; GHRP-2 provides potent ghrelin receptor pulse. CJC-1295 (no DAC) + GHRP-2 is particularly suited for pulsatile GH protocol research.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Bowers CY et al. "On the in vitro and in vivo activity of a new synthetic hexapeptide that acts on the pituitary to specifically release growth hormone." *Endocrinology*. 1984;114(5):1537–1545. | 6714155 | Original characterization of GHRP family hexapeptides; GHRP-2 (Pralmorelin) identified as potent GHS-R1a agonist with D-amino acid modifications |
+| Hataya Y et al. "A low dose of ghrelin stimulates growth hormone (GH) release synergistically with GH-releasing hormone in humans." *J Clin Endocrinol Metab*. 2001;86(9):4552–4555. | 11549707 | Ghrelin/GHRP synergism with GHRH demonstrated; mechanism for CJC-1295 + GHRP combination protocols |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **D-Amino Acid Stability** | D-Ala¹, D-2-Nal², and D-Phe⁵ substitutions confer resistance to enzymatic degradation; enhanced stability in reconstituted solution compared to all-L peptides |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and store at −20°C. D-amino acid modifications provide good solution stability. Avoid freeze-thaw cycles |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Ipamorelin** | [ipamorelin.md](ipamorelin.md) — Selective GHS-R1a agonist |
+| **GHRP-6** | [ghrp-6.md](ghrp-6.md) — Ghrelin mimetic with strong orexigenic effects |
+| **CJC-1295 (no DAC)** | [cjc-1295-no-dac.md](cjc-1295-no-dac.md) — Pulsatile GHRH analogue |
+| **HGH (Somatropin)** | [hgh.md](hgh.md) — 191-aa human growth hormone |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

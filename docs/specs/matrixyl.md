@@ -98,6 +98,31 @@ Yes. Matrixyl's ECM-building mechanism is complementary to neurotransmitter-targ
 
 ≥99% by HPLC at 214 nm. Palmitoylation efficiency (>98%) verified by HPLC with ELSD detection. Batch-specific COA included.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Lintner K & Peschard O. "Biologically active peptides: from a laboratory bench curiosity to a functional skin care product." *Int J Cosmet Sci*. 2000;22(3):207–218. | 18503476 | Matrixyl (palmitoyl pentapeptide-4) design concept: matrikine signaling via collagen fragment mimetic; palmitoyl anchor for stratum corneum penetration |
+| Robinson LR et al. "Topical palmitoyl pentapeptide provides improvement in photoaged human facial skin." *Int J Cosmet Sci*. 2005;27(3):155–160. | 18492182 | Clinical study: topical Matrixyl reduced wrinkle depth and improved skin firmness through procollagen I/III upregulation in photoaged skin |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **Palmitoyl Stability** | N-terminal palmitoyl (C16) enhances structural stability and skin penetration; monitor for hydrolysis of palmitoyl-peptide bond |
+| **Neutral pH (5.0–7.0)** | Stable; recommended for reconstitution and formulation. Palmitoyl group imparts limited aqueous solubility — use co-solvents in formulation |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Expect limited aqueous solubility due to lipophilic C16 chain |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **GHK-Cu (Copper Tripeptide)** | [ghk-cu.md](ghk-cu.md) — Copper peptide for collagen synthesis & wound healing |
+| **Argireline (Acetyl Hexapeptide-8)** | [argireline.md](argireline.md) — SNARE complex inhibitor |
+| **Leuphasyl (Pentapeptide-18)** | [leuphasyl.md](leuphasyl.md) — δ-opioid receptor agonist |
+| **Snap-8 (Acetyl Octapeptide-3)** | [snap-8.md](snap-8.md) — SNAP-25 competition peptide |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

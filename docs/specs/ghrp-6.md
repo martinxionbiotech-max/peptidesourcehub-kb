@@ -98,6 +98,31 @@ D-Trp² and D-Phe⁵ residues are critical for GHS-R1a binding and stability. Hi
 
 Lyophilized: 2–8°C, desiccated, 24-month stability. Reconstitute, aliquot, store at -20°C. D-amino acid modifications provide good solution stability. Protect from freeze-thaw cycles.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Bowers CY et al. "On the in vitro and in vivo activity of a new synthetic hexapeptide that acts on the pituitary to specifically release growth hormone." *Endocrinology*. 1984;114(5):1537–1545. | 6714155 | Original characterization of GHRP-6 as the prototypical synthetic ghrelin receptor agonist; GHS-R1a agonism as a new mechanism for GH release |
+| Kojima M et al. "Ghrelin is a growth-hormone-releasing acylated peptide from stomach." *Nature*. 1999;402(6762):656–660. | 10604470 | Discovery of ghrelin as the endogenous GHS-R ligand; provided structural basis for GHRP-6's orexigenic and GH-releasing activities |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **D-Amino Acid Stability** | D-Trp² and D-Phe⁵ provide resistance to enzymatic degradation; extended solution stability vs all-L peptides |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C. D-amino acid backbone provides good solution stability. Avoid freeze-thaw cycles |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **GHRP-2 (Pralmorelin)** | [ghrp-2.md](ghrp-2.md) — Potent ghrelin receptor agonist |
+| **Ipamorelin** | [ipamorelin.md](ipamorelin.md) — Selective GHS-R1a agonist |
+| **CJC-1295 (no DAC)** | [cjc-1295-no-dac.md](cjc-1295-no-dac.md) — Pulsatile GHRH analogue |
+| **HGH (Somatropin)** | [hgh.md](hgh.md) — 191-aa human growth hormone |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

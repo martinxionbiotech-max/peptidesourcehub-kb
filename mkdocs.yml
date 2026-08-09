@@ -56,12 +56,15 @@ nav:
     - COA & Purity Analysis: quality/coa-purity-analysis.md
     - HPLC Chromatography: quality/hplc-chromatography.md
     - Mass Spectrometry: quality/mass-spectrometry.md
+    - Advanced Analytical Characterization: quality/analytical-characterization.md
     - Batch Traceability: quality/batch-traceability.md
     - Documentation Package: quality/documentation-package.md
   - Supply Chain & Logistics:
     - Global Fulfillment: guides/global-fulfillment.md
     - Shipping & Packaging: guides/shipping-packaging.md
     - Import Documentation: guides/import-documentation.md
+    - Peptide Stability & Storage: guides/peptide-stability-storage.md
+    - Supplier Qualification: guides/supplier-qualification.md
     - B2B Ordering Process: guides/b2b-ordering.md
     - OEM & Private Label: guides/oem-private-label.md
   - Regulatory Reference:

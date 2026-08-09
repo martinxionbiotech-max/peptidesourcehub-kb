@@ -98,6 +98,31 @@ Minimally. GHRP-6 is a potent ghrelin mimetic that strongly activates hunger sig
 
 ≥99% HPLC purity, ESI-MS identity, and chiral HPLC verification of D-amino acid content. Batch-specific COA included.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Raun K et al. "Ipamorelin, the first selective growth hormone secretagogue." *Eur J Endocrinol*. 1998;139(5):552–561. | 9849822 | Ipamorelin characterized as the most selective GHS-R1a agonist; produces clean GH pulse with minimal ACTH/cortisol, prolactin, or hunger activation |
+| Johansen PB et al. "Ipamorelin, a new growth hormone secretagogue, increases longitudinal bone growth in rats." *Growth Horm IGF Res*. 1999;9(2):106–113. | 10373343 | Ipamorelin increased GH pulsatility and longitudinal bone growth in rodent models, demonstrating anabolic effects of selective GHS-R agonism |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **Non-Proteinogenic Amino Acids** | Aib¹, D-2-Nal³, and D-Phe⁴ provide protease resistance and enhanced solution stability |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C. Modified amino acids provide good solution stability. Avoid freeze-thaw cycles |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **CJC-1295 (no DAC)** | [cjc-1295-no-dac.md](cjc-1295-no-dac.md) — Pulsatile GHRH analogue |
+| **CJC-1295 (DAC)** | [cjc-1295-dac.md](cjc-1295-dac.md) — Long-acting GHRH analogue |
+| **GHRP-2 (Pralmorelin)** | [ghrp-2.md](ghrp-2.md) — Potent ghrelin receptor agonist |
+| **HGH (Somatropin)** | [hgh.md](hgh.md) — 191-aa human growth hormone |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

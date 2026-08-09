@@ -1,6 +1,16 @@
 ---
 title: "GHK-Cu (Copper Tripeptide) — Technical Specification"
 description: "Technical specification for GHK-Cu (Copper Tripeptide-1), a naturally occurring copper-binding tripeptide with applications in wound healing, collagen synthesis, and tissue regeneration research."
+schema_type: FAQPage
+faq_json:
+  - q: "What is the purity level of GHK-Cu?"
+    a: "GHK-Cu is supplied at ≥99% purity verified by HPLC analysis with full Certificate of Analysis documentation."
+  - q: "How should GHK-Cu be stored for research use?"
+    a: "Store lyophilized GHK-Cu at -20°C for long-term stability. Reconstituted solutions should be stored at 2-8°C and used within 7-14 days."
+  - q: "What is the molecular structure of GHK-Cu?"
+    a: "GHK-Cu is a copper(II) complex of the tripeptide Gly-His-Lys, with a molecular weight of approximately 340.38 Da for the free peptide and approximately 401.9 Da for the copper complex."
+  - q: "Is GHK-Cu suitable for human use?"
+    a: "No. GHK-Cu is labeled FOR LABORATORY RESEARCH USE ONLY and is not approved by regulatory authorities for human therapeutic or diagnostic use."
 ---
 
 # GHK-Cu (Glycyl-L-Histidyl-L-Lysine • Copper)
@@ -86,3 +96,41 @@ GHK is a naturally occurring tripeptide present in human plasma at approximately
 - The characteristic blue color of lyophilized GHK-Cu is a visual indicator of successful copper complexation. Color intensity correlates with copper loading and should be uniform across vials within a batch.
 - Care should be taken during reconstitution to ensure complete dissolution; the copper complex may form micro-aggregates in alkaline buffers (pH > 7.5).
 - GHK-Cu is stable to autoclaving (121°C, 20 min) in lyophilized form, but heat sterilization of reconstituted solutions is not recommended.
+
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Pickart L et al. "GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration." *Biomed Res Int*. 2015;2015:648108. | 26236730 | GHK-Cu resets gene expression in aged/damaged tissue toward a younger profile; upregulates ~50% of suppressed genes; stimulates collagen, elastin, and GAG synthesis |
+| Siméon A et al. "Expression and activation of matrix metalloproteinases in wounds: modulation by the tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu²⁺." *J Invest Dermatol*. 1999;112(6):957–964. | 10383745 | GHK-Cu modulates MMP-2/TIMP-2 balance for orderly ECM remodeling during wound healing |
+| Pollard JD et al. "The effects of copper tripeptide on wound healing." *Wound Repair Regen*. 2005;13(2):A12–A27. | — | Comprehensive review of GHK-Cu in wound healing models including angiogenesis, collagen synthesis, and anti-inflammatory activity |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Light Exposure** | Highly photosensitive; the copper complex photodegrades under UV and intense visible light. Always store in amber vials or opaque containers protected from light |
+| **Neutral pH (6.0–7.5)** | Stable; optimal pH for copper complexation integrity and biological activity |
+| **Alkaline pH (>7.5)** | Copper complex may dissociate or form micro-aggregates; avoid reconstitution in alkaline buffers |
+| **Metal Ion Chelation** | EDTA and other strong chelators strip Cu²⁺ from the GHK-Cu complex, abolishing biological activity. Do not co-formulate with chelating agents |
+| **Temperature** | Lyophilized: stable 24 months at 2–8°C (protected from light). Reconstituted: 24 h at 4°C; freeze at −20°C in single-use aliquots |
+| **Freeze-Thaw** | Avoid repeated cycles; hydrolysis risk increases with each thaw cycle |
+
+## Frequently Asked Questions
+
+### Q: What purity specifications apply to GHK-Cu?
+
+≥98.0% by HPLC for the free GHK peptide, with ≥95.0% copper complexation confirmed by UV-Vis (λmax ~590–610 nm) and HPLC-MS. Each batch includes peptide content (≥80.0%), water content (≤5.0%), and endotoxin testing. The characteristic blue-violet color is a visual indicator of successful copper loading.
+
+### Q: How should GHK-Cu be stored to maintain copper complex integrity?
+
+Store lyophilized GHK-Cu at 2–8°C or −20°C in tightly sealed, light-protected containers (amber vials or opaque packaging). After reconstitution, use within 24 hours at 2–8°C or aliquot into single-use portions and freeze at −20°C. Critical: protect from light at all times — the copper complex photodegrades. Never co-formulate with EDTA or strong metal chelators, as they strip the essential Cu²⁺ ion from the complex.
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Matrixyl (Palmitoyl Pentapeptide-4)** | [matrixyl.md](matrixyl.md) — ECM-building matrikine signaling |
+| **Argireline (Acetyl Hexapeptide-8)** | [argireline.md](argireline.md) — SNARE complex inhibitor |
+| **BPC-157** | [bpc-157.md](bpc-157.md) — Protection compound for tissue repair |
+| **Snap-8 (Acetyl Octapeptide-3)** | [snap-8.md](snap-8.md) — SNAP-25 competition peptide |

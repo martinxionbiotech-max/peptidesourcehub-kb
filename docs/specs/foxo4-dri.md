@@ -99,6 +99,32 @@ Most senolytics (dasatinib, quercetin) target BCL-2 family proteins broadly. FOX
 
 Beyond standard tests: chiral amino acid analysis confirms all D-configuration residues; MALDI-TOF MS for accurate mass of this larger 47-amino acid peptide. All in batch-specific COA.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Baar MP et al. "Targeted apoptosis of senescent cells restores tissue homeostasis in response to chemotoxicity and aging." *Cell*. 2017;169(1):132–147.e16. | 28340339 | FOXO4-DRI displaces FOXO4 from p53 in senescent cells, triggering p53-mediated apoptosis; restores fitness and hair density in naturally aged and progeroid mouse models |
+| de Keizer PLJ. "The Fountain of Youth by Targeting Senescent Cells?" *Trends Mol Med*. 2017;23(1):6–17. | 28041565 | Review of senolytic strategies including FOXO4-DRI as a targeted protein-protein interaction disruptor for senescent cell clearance |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **D-Retro-Inverso Stability** | All D-amino acids with reversed sequence — essentially invisible to proteases. Dramatically extended half-life compared to L-peptide counterparts |
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **Neutral pH (6.0–7.5)** | Stable; excellent protease resistance across a range of pH conditions due to D-amino acid backbone |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+| **47-mer Handling** | Larger peptide (MW ~4,316 Da) — use siliconized vials and low-retention tips to minimize non-specific adsorption |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Epithalon** | [epithalon.md](epithalon.md) — Pineal tetrapeptide for telomerase activation |
+| **DSIP** | [dsip.md](dsip.md) — Delta sleep-inducing peptide |
+| **Semax** | [semax.md](semax.md) — ACTH-derived nootropic peptide |
+| **Selank** | [selank.md](selank.md) — Tuftsin-derived anxiolytic peptide |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

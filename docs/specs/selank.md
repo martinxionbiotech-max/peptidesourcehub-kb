@@ -102,6 +102,31 @@ No — a significant distinction from benzodiazepines. In animal models, Selank 
 
 ≥99% HPLC purity, ESI-MS identity, amino acid analysis. Pro-Gly-Pro extension verified by MS/MS fragmentation. Batch-specific COA included.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Kost NV et al. "The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity." *Bull Exp Biol Med*. 2001;131(4):315–317. | 11550013 | Selank inhibits enkephalin-degrading enzymes, prolonging endogenous opioid peptide activity as a mechanism for anxiolysis |
+| Filatova EV et al. "Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission." *Front Pharmacol*. 2016;7:31. | 26924987 | Selank modulates GABAergic gene expression in brain regions associated with anxiety, providing molecular basis for anxiolytic effects |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Stable; no special handling beyond standard peptide storage. 24 months at 2–8°C in desiccated environment, protect from light |
+| **Pro-Gly-Pro Stability** | The C-terminal PGP tripeptide confers enhanced stability and CNS penetration (shared design feature with Semax) |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile water or PBS |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Semax** | [semax.md](semax.md) — ACTH-derived nootropic peptide |
+| **DSIP** | [dsip.md](dsip.md) — Delta sleep-inducing peptide |
+| **Epithalon** | [epithalon.md](epithalon.md) — Pineal tetrapeptide for longevity |
+| **FOXO4-DRI** | [foxo4-dri.md](foxo4-dri.md) — Senolytic peptide for cellular senescence |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

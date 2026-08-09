@@ -1,0 +1,618 @@
+# PeptideSourceHub Technical Documentation — Full Content (llms-full.txt)
+
+> Generated: 2026-08-09
+> Total pages: 44
+
+## Index
+
+- [PeptideSourceHub Technical Documentation](https://docs.peptidesourcehub.net/index) — *Product Specifications*
+- [AOD-9604 — Technical Specification](https://docs.peptidesourcehub.net/specs/aod-9604) — *Product Specifications*
+- [ARA-290 — Technical Specification](https://docs.peptidesourcehub.net/specs/ara-290) — *Product Specifications*
+- [Argireline — Technical Specification](https://docs.peptidesourcehub.net/specs/argireline) — *Product Specifications*
+- [BPC-157 — Technical Specification](https://docs.peptidesourcehub.net/specs/bpc-157) — *Product Specifications*
+- [Cagrilintide — Technical Specification](https://docs.peptidesourcehub.net/specs/cagrilintide) — *Product Specifications*
+- [CJC-1295 (DAC) — Technical Specification](https://docs.peptidesourcehub.net/specs/cjc-1295-dac) — *Product Specifications*
+- [CJC-1295 (no DAC) — Technical Specification](https://docs.peptidesourcehub.net/specs/cjc-1295-no-dac) — *Product Specifications*
+- [DSIP — Technical Specification](https://docs.peptidesourcehub.net/specs/dsip) — *Product Specifications*
+- [Epithalon — Technical Specification](https://docs.peptidesourcehub.net/specs/epithalon) — *Product Specifications*
+- [FOXO4-DRI — Technical Specification](https://docs.peptidesourcehub.net/specs/foxo4-dri) — *Product Specifications*
+- [GHK-Cu (Copper Tripeptide) — Technical Specification](https://docs.peptidesourcehub.net/specs/ghk-cu) — *Product Specifications*
+- [GHRP-2 — Technical Specification](https://docs.peptidesourcehub.net/specs/ghrp-2) — *Product Specifications*
+- [GHRP-6 — Technical Specification](https://docs.peptidesourcehub.net/specs/ghrp-6) — *Product Specifications*
+- [HGH — Technical Specification](https://docs.peptidesourcehub.net/specs/hgh) — *Product Specifications*
+- [Product Specifications Overview — PeptideSourceHub](https://docs.peptidesourcehub.net/specs) — *Product Specifications*
+- [Ipamorelin — Technical Specification](https://docs.peptidesourcehub.net/specs/ipamorelin) — *Product Specifications*
+- [Leuphasyl — Technical Specification](https://docs.peptidesourcehub.net/specs/leuphasyl) — *Product Specifications*
+- [Matrixyl — Technical Specification](https://docs.peptidesourcehub.net/specs/matrixyl) — *Product Specifications*
+- [PEG-MGF — Technical Specification](https://docs.peptidesourcehub.net/specs/peg-mgf) — *Product Specifications*
+- [Retatrutide — Technical Specification](https://docs.peptidesourcehub.net/specs/retatrutide) — *Product Specifications*
+- [Selank — Technical Specification](https://docs.peptidesourcehub.net/specs/selank) — *Product Specifications*
+- [Semaglutide — Technical Specification](https://docs.peptidesourcehub.net/specs/semaglutide) — *Product Specifications*
+- [Semax — Technical Specification](https://docs.peptidesourcehub.net/specs/semax) — *Product Specifications*
+- [Snap-8 — Technical Specification](https://docs.peptidesourcehub.net/specs/snap-8) — *Product Specifications*
+- [Specialty Peptide Stacks — Technical Reference](https://docs.peptidesourcehub.net/specs/specialty-stacks) — *Product Specifications*
+- [TB-500 (Thymosin Beta-4 Fragment) — Technical Specification](https://docs.peptidesourcehub.net/specs/tb-500) — *Product Specifications*
+- [Thymosin Beta-4 — Technical Specification](https://docs.peptidesourcehub.net/specs/thymosin-beta-4) — *Product Specifications*
+- [Tirzepatide — Technical Specification](https://docs.peptidesourcehub.net/specs/tirzepatide) — *Product Specifications*
+- [Batch Traceability System — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/batch-traceability) — *Quality Control*
+- [Certificate of Analysis & Purity Analysis — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/coa-purity-analysis) — *Quality Control*
+- [Documentation Package — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/documentation-package) — *Quality Control*
+- [HPLC Chromatography for Peptide Analysis — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/hplc-chromatography) — *Quality Control*
+- [Quality Control Framework — PeptideSourceHub](https://docs.peptidesourcehub.net/quality) — *Quality Control*
+- [Mass Spectrometry Verification — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/mass-spectrometry) — *Quality Control*
+- [B2B Ordering Process & Wholesale Pricing](https://docs.peptidesourcehub.net/guides/b2b-ordering) — *Supply Chain & Logistics*
+- [Global Fulfillment & Logistics](https://docs.peptidesourcehub.net/guides/global-fulfillment) — *Supply Chain & Logistics*
+- [Import Documentation & Customs Guide](https://docs.peptidesourcehub.net/guides/import-documentation) — *Supply Chain & Logistics*
+- [OEM, Custom Synthesis & Private Label](https://docs.peptidesourcehub.net/guides/oem-private-label) — *Supply Chain & Logistics*
+- [Shipping & Packaging Standards](https://docs.peptidesourcehub.net/guides/shipping-packaging) — *Supply Chain & Logistics*
+- [GMP Guidelines for Peptide Manufacturing — PeptideSourceHub](https://docs.peptidesourcehub.net/regulatory/gmp-guidelines) — *Regulatory*
+- [Industry Standards Reference — PeptideSourceHub](https://docs.peptidesourcehub.net/regulatory/industry-standards) — *Regulatory*
+- [Research Use Only (RUO) Compliance](https://docs.peptidesourcehub.net/regulatory/research-use-only) — *Regulatory*
+- [Peptide Knowledge Base Glossary](https://docs.peptidesourcehub.net/glossary) — *Glossary*
+
+## Product Specifications
+
+### [PeptideSourceHub Technical Documentation](https://docs.peptidesourcehub.net/index)
+
+**URL:** https://docs.peptidesourcehub.net/index
+
+**Summary:** Official technical documentation for peptide researchers, procurement teams, and QA professionals covering product specifications, quality control, and regulatory guidance.
+
+**Key Entities:**
+- Mission
+- Scope
+- Audience
+- Quality Standards Reference
+- Document Index
+
+### [AOD-9604 — Technical Specification](https://docs.peptidesourcehub.net/specs/aod-9604)
+
+**URL:** https://docs.peptidesourcehub.net/specs/aod-9604
+
+**Summary:** Factory-direct AOD-9604 wholesale. CAS 221231-10-3, ~1,815.1 Da. ≥99% HPLC. hGH fragment 177-191 — selective adipose lipolysis. COA included.
+
+**Key Entities:**
+- CAS 221231-10-3
+- Sequence: H-YLRIVQCRSVEGSCGF-OH (cyclic, Cys⁷–Cys¹⁴ disulfide)
+- Molecular Formula: C₇₈H₁₂₃N₂₃O₂₃S₂
+- Molecular Weight: ~1,815.1 Da
+- Amino Acid Count: 16 (cyclic via disulfide bond)
+
+### [ARA-290 — Technical Specification](https://docs.peptidesourcehub.net/specs/ara-290)
+
+**URL:** https://docs.peptidesourcehub.net/specs/ara-290
+
+**Summary:** Factory-direct ARA-290 wholesale. CAS 1208243-50-8, ~1,258.4 Da. ≥99% HPLC. Innate Repair Receptor agonist — tissue protection. COA included.
+
+**Key Entities:**
+- CAS 1208243-50-8
+- Sequence: H-Gln-Glu-Gln-Leu-Glu-Arg-Ala-Leu-Asn-Ser-Ser-OH
+- Molecular Formula: C₅₁H₈₄N₁₆O₁₉
+- Molecular Weight: ~1,258.4 Da
+- Amino Acid Count: 11
+
+### [Argireline — Technical Specification](https://docs.peptidesourcehub.net/specs/argireline)
+
+**URL:** https://docs.peptidesourcehub.net/specs/argireline
+
+**Summary:** Factory-direct Argireline wholesale. CAS 616204-22-9, ~889.0 Da. ≥99% HPLC. Acetyl hexapeptide-8 — neurotransmitter release inhibitor. COA included.
+
+**Key Entities:**
+- CAS 616204-22-9
+- Sequence: Ac-Glu-Glu-Met-Gln-Arg-Arg-NH₂
+- Molecular Formula: C₃₄H₆₀N₁₄O₁₂S
+- Molecular Weight: ~889.0 Da
+- Amino Acid Count: 6 (N-terminal acetyl, C-terminal amide)
+
+### [BPC-157 — Technical Specification](https://docs.peptidesourcehub.net/specs/bpc-157)
+
+**URL:** https://docs.peptidesourcehub.net/specs/bpc-157
+
+**Summary:** Complete technical specification for BPC-157 (CAS 137525-51-0), a synthetic pentadecapeptide for laboratory research applications in tissue repair, angiogenesis, and gastrointestinal protection.
+
+**Key Entities:**
+- CAS 137525-51-0
+- Sequence: Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val
+- Molecular Formula: C₆₂H₉₈N₁₆O₂₂
+- Molecular Weight: ~1,419.5 Da
+- Amino Acid Count: 15
+
+### [Cagrilintide — Technical Specification](https://docs.peptidesourcehub.net/specs/cagrilintide)
+
+**URL:** https://docs.peptidesourcehub.net/specs/cagrilintide
+
+**Summary:** Technical specification for Cagrilintide, a long-acting amylin analog for laboratory research in satiety, gastric emptying, and combination metabolic therapy.
+
+**Key Entities:**
+- Molecular Weight: ~4,433 Da
+- Receptor Targets: Amylin receptor (AMY1, AMY3 subtypes); calcitonin receptor (CTR) complex with RAMP1/RAMP3
+- Quality Specifications
+- Available Configurations
+- Storage & Stability
+
+### [CJC-1295 (DAC) — Technical Specification](https://docs.peptidesourcehub.net/specs/cjc-1295-dac)
+
+**URL:** https://docs.peptidesourcehub.net/specs/cjc-1295-dac
+
+**Summary:** Factory-direct CJC-1295 with DAC wholesale. CAS 863288-34-0, ~3,649.2 Da. ≥99% HPLC. Long-acting GHRH analogue. COA included.
+
+**Key Entities:**
+- CAS 863288-34-0
+- Molecular Formula: C₁₅₂H₂₅₂N₄₄O₄₂
+- Molecular Weight: ~3,649.2 Da
+- Amino Acid Count: 30 (C-terminal DAC linker)
+
+### [CJC-1295 (no DAC) — Technical Specification](https://docs.peptidesourcehub.net/specs/cjc-1295-no-dac)
+
+**URL:** https://docs.peptidesourcehub.net/specs/cjc-1295-no-dac
+
+**Summary:** Factory-direct CJC-1295 without DAC wholesale. CAS 863288-34-0, ~3,367.1 Da. ≥99% HPLC. Short-acting GHRH analogue. COA included.
+
+**Key Entities:**
+- CAS 863288-34-0
+- Molecular Formula: C₁₅₂H₂₅₂N₄₄O₄₂
+- Molecular Weight: ~3,367.1 Da
+- Amino Acid Count: 30 (no DAC linker)
+
+### [DSIP — Technical Specification](https://docs.peptidesourcehub.net/specs/dsip)
+
+**URL:** https://docs.peptidesourcehub.net/specs/dsip
+
+**Summary:** Factory-direct DSIP wholesale. CAS 62568-57-4, ~848.8 Da. ≥99% HPLC. Delta sleep-inducing peptide — sleep modulation. COA included.
+
+**Key Entities:**
+- CAS 62568-57-4
+- Sequence: Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu-OH
+- Molecular Formula: C₃₅H₄₈N₁₀O₁₅
+- Molecular Weight: ~848.8 Da
+- Amino Acid Count: 9
+
+### [Epithalon — Technical Specification](https://docs.peptidesourcehub.net/specs/epithalon)
+
+**URL:** https://docs.peptidesourcehub.net/specs/epithalon
+
+**Summary:** Factory-direct Epithalon wholesale. CAS 307297-39-8, ~390.4 Da. ≥99% HPLC. Pineal tetrapeptide — telomerase activation for longevity research. COA included.
+
+**Key Entities:**
+- CAS 307297-39-8
+- Sequence: Ala-Glu-Asp-Gly-OH
+- Molecular Formula: C₁₄H₂₂N₄O₉
+- Molecular Weight: ~390.4 Da
+- Amino Acid Count: 4
+
+### [FOXO4-DRI — Technical Specification](https://docs.peptidesourcehub.net/specs/foxo4-dri)
+
+**URL:** https://docs.peptidesourcehub.net/specs/foxo4-dri
+
+**Summary:** Factory-direct FOXO4-DRI wholesale. MW ~4,316.0 Da. ≥99% HPLC. Senolytic peptide — FOXO4-p53 disruption for senescent cell apoptosis. COA included.
+
+**Key Entities:**
+- Molecular Formula: —
+- Molecular Weight: ~4,316.0 Da
+- Amino Acid Count: 47 (all D-amino acids, retro-inverso)
+
+### [GHK-Cu (Copper Tripeptide) — Technical Specification](https://docs.peptidesourcehub.net/specs/ghk-cu)
+
+**URL:** https://docs.peptidesourcehub.net/specs/ghk-cu
+
+**Summary:** Technical specification for GHK-Cu (Copper Tripeptide-1), a naturally occurring copper-binding tripeptide with applications in wound healing, collagen synthesis, and tissue regeneration research.
+
+**Key Entities:**
+- Sequence: Gly-His-Lys (GHK) complexed with Cu²⁺
+- Molecular Formula: C₁₄H₂₄N₆O₄·Cu
+- Molecular Weight: ~340.38 Da (free peptide); ~401.9 Da (copper complex)
+
+### [GHRP-2 — Technical Specification](https://docs.peptidesourcehub.net/specs/ghrp-2)
+
+**URL:** https://docs.peptidesourcehub.net/specs/ghrp-2
+
+**Summary:** Factory-direct GHRP-2 wholesale. CAS 158861-67-7, ~817.0 Da. ≥99% HPLC. Potent GHS-R1a agonist. COA included.
+
+**Key Entities:**
+- CAS 158861-67-7
+- Sequence: D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH₂
+- Molecular Formula: C₄₅H₅₅N₉O₆
+- Molecular Weight: ~817.0 Da
+- Amino Acid Count: 6 (D-Ala¹, D-2-Nal², D-Phe⁵)
+
+### [GHRP-6 — Technical Specification](https://docs.peptidesourcehub.net/specs/ghrp-6)
+
+**URL:** https://docs.peptidesourcehub.net/specs/ghrp-6
+
+**Summary:** Factory-direct GHRP-6 wholesale. CAS 87616-84-0, ~873.0 Da. ≥99% HPLC. Ghrelin mimetic — strong GH release with orexigenic effects. COA included.
+
+**Key Entities:**
+- CAS 87616-84-0
+- Sequence: His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂
+- Molecular Formula: C₄₆H₅₆N₁₂O₆
+- Molecular Weight: ~873.0 Da
+- Amino Acid Count: 6 (D-Trp², D-Phe⁵)
+
+### [HGH — Technical Specification](https://docs.peptidesourcehub.net/specs/hgh)
+
+**URL:** https://docs.peptidesourcehub.net/specs/hgh
+
+**Summary:** Human Growth Hormone (somatropin) lyophilized powder. CAS 12629-01-5, ~22125 Da. ≥99% HPLC purity. 191-amino acid polypeptide. 100/150/200 IU kit configurations. COA included. Tiered wholesale pricing.
+
+**Key Entities:**
+- CAS 12629-01-5
+- Molecular Formula: C₉₉₀H₁₅₂₈N₂₆₂O₃₀₀S₇
+- Molecular Weight: ~22,125 Da
+
+### [Product Specifications Overview — PeptideSourceHub](https://docs.peptidesourcehub.net/specs)
+
+**URL:** https://docs.peptidesourcehub.net/specs
+
+**Summary:** Complete product specifications for 26 research peptides across 6 categories. Every product verified by HPLC ≥99% purity with mass spectrometry confirmation, manufactured since 2009 in Shenzhen, China.
+
+**Key Entities:**
+- Quality Standards Summary
+- OEM & Custom Synthesis
+- Product Specification Index
+- Documentation Standards
+- Related Resources
+
+### [Ipamorelin — Technical Specification](https://docs.peptidesourcehub.net/specs/ipamorelin)
+
+**URL:** https://docs.peptidesourcehub.net/specs/ipamorelin
+
+**Summary:** Factory-direct Ipamorelin wholesale. CAS 170851-70-4, ~711.9 Da. ≥99% HPLC. Selective GHS-R1a agonist. COA included.
+
+**Key Entities:**
+- CAS 170851-70-4
+- Sequence: Aib-His-D-2-Nal-D-Phe-Lys-NH₂
+- Molecular Formula: C₃₈H₄₉N₉O₅
+- Molecular Weight: ~711.9 Da
+- Amino Acid Count: 5 (Aib¹, D-2-Nal³, D-Phe⁴ modified)
+
+### [Leuphasyl — Technical Specification](https://docs.peptidesourcehub.net/specs/leuphasyl)
+
+**URL:** https://docs.peptidesourcehub.net/specs/leuphasyl
+
+**Summary:** Factory-direct Leuphasyl wholesale. MW ~623.7 Da. ≥99% HPLC. Pentapeptide-18 — δ-opioid receptor agonist. COA included.
+
+**Key Entities:**
+- CAS 18
+- Sequence: Tyr-D-Ala-Gly-Phe-Leu-OH
+- Molecular Formula: C₃₃H₄₅N₅O₈
+- Molecular Weight: ~623.7 Da
+- Amino Acid Count: 5 (D-Ala² substitution)
+
+### [Matrixyl — Technical Specification](https://docs.peptidesourcehub.net/specs/matrixyl)
+
+**URL:** https://docs.peptidesourcehub.net/specs/matrixyl
+
+**Summary:** Factory-direct Matrixyl wholesale. CAS 214047-00-4, ~803.9 Da. ≥99% HPLC. Palmitoyl pentapeptide-4 — procollagen I signaling. COA included.
+
+**Key Entities:**
+- CAS 214047-00-4
+- Sequence: Palmitoyl-Lys-Thr-Thr-Lys-Ser-OH
+- Molecular Formula: C₃₉H₇₅N₇O₁₀
+- Molecular Weight: ~803.9 Da
+- Amino Acid Count: 5 (N-terminal palmitoyl)
+
+### [PEG-MGF — Technical Specification](https://docs.peptidesourcehub.net/specs/peg-mgf)
+
+**URL:** https://docs.peptidesourcehub.net/specs/peg-mgf
+
+**Summary:** Factory-direct PEG-MGF wholesale. MW ~11,500 Da. ≥99% HPLC. PEGylated IGF-1Ec — satellite cell activation. COA included.
+
+**Key Entities:**
+- Sequence: IGF-1Ec E-domain peptide (24-aa insert), PEGylated
+- Molecular Formula: —
+- Molecular Weight: ~11,500 Da (PEG-protein conjugate)
+- Amino Acid Count: ~94 + PEG moiety
+
+### [Retatrutide — Technical Specification](https://docs.peptidesourcehub.net/specs/retatrutide)
+
+**URL:** https://docs.peptidesourcehub.net/specs/retatrutide
+
+**Summary:** Technical specification for Retatrutide, a triple GIPR/GLP-1R/GCGR receptor agonist, for metabolic and obesity research applications.
+
+**Key Entities:**
+- Molecular Formula: C₂₂₃H₃₄₃N₄₇O₆₈
+- Molecular Weight: ~4,845.5 Da
+- Receptor Targets: GIPR / GLP-1R / GCGR (triple agonist)
+- Amino Acid Count: 39
+
+### [Selank — Technical Specification](https://docs.peptidesourcehub.net/specs/selank)
+
+**URL:** https://docs.peptidesourcehub.net/specs/selank
+
+**Summary:** Factory-direct Selank wholesale. CAS 129954-34-1, ~751.9 Da. ≥99% HPLC. Tuftsin analogue — anxiolytic without sedation. COA included.
+
+**Key Entities:**
+- CAS 129954-34-1
+- Sequence: Thr-Lys-Pro-Arg-Pro-Gly-Pro-OH
+- Molecular Formula: C₃₃H₅₇N₁₁O₉
+- Molecular Weight: ~751.9 Da
+- Amino Acid Count: 7 (tuftsin analogue + Pro-Gly-Pro)
+
+### [Semaglutide — Technical Specification](https://docs.peptidesourcehub.net/specs/semaglutide)
+
+**URL:** https://docs.peptidesourcehub.net/specs/semaglutide
+
+**Summary:** Technical specification for Semaglutide (CAS 910463-68-2), a long-acting GLP-1 receptor agonist with Aib⁸ substitution and C18 fatty diacid linker for laboratory research.
+
+**Key Entities:**
+- CAS 910463-68-2
+- Molecular Formula: C₁₈₇H₂₉₁N₄₅O₅₉
+- Molecular Weight: ~4,113.6 Da
+- Receptor Targets: GLP-1R (selective)
+- Amino Acid Count: 31
+
+### [Semax — Technical Specification](https://docs.peptidesourcehub.net/specs/semax)
+
+**URL:** https://docs.peptidesourcehub.net/specs/semax
+
+**Summary:** Factory-direct Semax wholesale. CAS 80714-61-0, ~813.9 Da. ≥99% HPLC. BDNF/NGF upregulator — neuroprotection &amp; cognitive enhancement. COA included.
+
+**Key Entities:**
+- CAS 80714-61-0
+- Sequence: Met-Glu-His-Phe-Pro-Gly-Pro-OH
+- Molecular Formula: C₃₇H₅₁N₉O₁₀S
+- Molecular Weight: ~813.9 Da
+- Amino Acid Count: 7 (ACTH(4-7) + Pro-Gly-Pro C-terminal)
+
+### [Snap-8 — Technical Specification](https://docs.peptidesourcehub.net/specs/snap-8)
+
+**URL:** https://docs.peptidesourcehub.net/specs/snap-8
+
+**Summary:** Factory-direct Snap-8 wholesale. MW ~1,073.2 Da. ≥99% HPLC. Acetyl octapeptide-3 — SNAP-25 inhibitor. COA included.
+
+**Key Entities:**
+- Sequence: Ac-Glu-Glu-Met-Gln-Arg-Arg-Ala-Asp-NH₂
+- Molecular Formula: C₄₁H₇₀N₁₆O₁₆S
+- Molecular Weight: ~1,073.2 Da
+- Amino Acid Count: 8 (N-terminal acetyl, C-terminal amide)
+
+### [Specialty Peptide Stacks — Technical Reference](https://docs.peptidesourcehub.net/specs/specialty-stacks)
+
+**URL:** https://docs.peptidesourcehub.net/specs/specialty-stacks
+
+**Summary:** Technical reference for multi-peptide research stacks combining complementary peptides for synergistic investigation in metabolic, healing, anti-aging, and cosmetic research.
+
+**Key Entities:**
+- Quality Specifications
+- Custom Stack Development
+- Related Resources
+
+### [TB-500 (Thymosin Beta-4 Fragment) — Technical Specification](https://docs.peptidesourcehub.net/specs/tb-500)
+
+**URL:** https://docs.peptidesourcehub.net/specs/tb-500
+
+**Summary:** Technical specification for TB-500, the synthetic 17-23 fragment of Thymosin Beta-4, for research in cell migration, angiogenesis, and wound healing.
+
+**Key Entities:**
+- Sequence: Leu-Lys-Lys-Thr-Glu-Thr-Gln (LKKTETQ)
+- Molecular Formula: C₃₈H₆₈N₁₀O₁₄
+- Molecular Weight: ~889 Da
+- Amino Acid Count: 7
+
+### [Thymosin Beta-4 — Technical Specification](https://docs.peptidesourcehub.net/specs/thymosin-beta-4)
+
+**URL:** https://docs.peptidesourcehub.net/specs/thymosin-beta-4
+
+**Summary:** Factory-direct Thymosin Beta-4 wholesale. CAS 77591-33-4, ~4,963.5 Da. ≥99% HPLC. Full-length tissue regeneration peptide. COA included.
+
+**Key Entities:**
+- CAS 77591-33-4
+- Sequence: Ac-SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES-OH
+- Molecular Formula: C₂₁₂H₃₅₀N₅₆O₇₈S
+- Molecular Weight: ~4,963.5 Da
+- Amino Acid Count: 43
+
+### [Tirzepatide — Technical Specification](https://docs.peptidesourcehub.net/specs/tirzepatide)
+
+**URL:** https://docs.peptidesourcehub.net/specs/tirzepatide
+
+**Summary:** Technical specification for Tirzepatide, a dual GIPR/GLP-1 receptor agonist with 39 amino acids and C20 fatty diacid linker, for metabolic research applications.
+
+**Key Entities:**
+- Molecular Formula: C₂₂₅H₃₄₈N₄₈O₆₈
+- Molecular Weight: ~4,813.5 Da
+- Receptor Targets: GIPR / GLP-1R (dual agonist)
+- Amino Acid Count: 39
+
+## Quality Control
+
+### [Batch Traceability System — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/batch-traceability)
+
+**URL:** https://docs.peptidesourcehub.net/quality/batch-traceability
+
+**Summary:** Technical documentation of the batch traceability system used in peptide manufacturing — lot numbering, audit trail, raw material mapping, and OEM batch number integration.
+
+**Key Entities:**
+- Lot Numbering System
+- Traceability Chain
+- Documentation Audit Trail
+- OEM Batch Number Mapping
+- Traceability in Practice
+
+### [Certificate of Analysis & Purity Analysis — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/coa-purity-analysis)
+
+**URL:** https://docs.peptidesourcehub.net/quality/coa-purity-analysis
+
+**Summary:** Comprehensive guide to reading and verifying a Certificate of Analysis for research peptides. Covers all 10 COA fields, red flags, HPLC chromatogram interpretation, and peptide content vs purity.
+
+**Key Entities:**
+- What Is a Certificate of Analysis?
+- The 10 Standard COA Fields
+- Red Flags: Identifying Low-Quality or Suspect COAs
+- How to Read an HPLC Chromatogram
+- Peptide Content vs Purity
+
+### [Documentation Package — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/documentation-package)
+
+**URL:** https://docs.peptidesourcehub.net/quality/documentation-package
+
+**Summary:** Complete reference for the documentation package provided with every peptide order — COA, MSDS, commercial invoice, packing list, stability data, and extended documentation options.
+
+**Key Entities:**
+- Standard Documentation
+- Extended Documentation (On Request)
+- Documentation Formats
+- Documentation Verification
+- What to Expect Per Order
+
+### [HPLC Chromatography for Peptide Analysis — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/hplc-chromatography)
+
+**URL:** https://docs.peptidesourcehub.net/quality/hplc-chromatography
+
+**Summary:** Technical guide to high-performance liquid chromatography for peptide purity analysis. Covers reverse-phase methodology, peak interpretation, impurity types, and supplier evaluation.
+
+**Key Entities:**
+- What HPLC Measures
+- Reverse-Phase HPLC Methodology
+- Detection Wavelength Selection
+- Interpreting Peak Area Percentages
+- Common Impurity Types
+
+### [Quality Control Framework — PeptideSourceHub](https://docs.peptidesourcehub.net/quality)
+
+**URL:** https://docs.peptidesourcehub.net/quality
+
+**Summary:** Multi-layer quality control framework covering in-process, release, and pre-shipment testing gates with full analytical methodology and documentation standards.
+
+**Key Entities:**
+- Quality Philosophy
+- Three-Gate Quality System
+- Analytical Instrumentation
+- QC Personnel & Training
+- In-Depth Quality Guides
+
+### [Mass Spectrometry Verification — PeptideSourceHub](https://docs.peptidesourcehub.net/quality/mass-spectrometry)
+
+**URL:** https://docs.peptidesourcehub.net/quality/mass-spectrometry
+
+**Summary:** Technical guide to mass spectrometry for peptide molecular weight confirmation. ESI-MS, MALDI-TOF comparison, spectrum interpretation, and MS/MS sequence verification.
+
+**Key Entities:**
+- Why Mass Spectrometry Matters
+- ESI-MS: The Standard for Peptide Analysis
+- Method Comparison: ESI vs MALDI-TOF
+- Interpreting a Mass Spectrum
+- MS/MS: Sequence Verification
+
+## Supply Chain & Logistics
+
+### [B2B Ordering Process & Wholesale Pricing](https://docs.peptidesourcehub.net/guides/b2b-ordering)
+
+**URL:** https://docs.peptidesourcehub.net/guides/b2b-ordering
+
+**Summary:** Complete guide to PeptideSourceHub's B2B ordering workflow, tiered wholesale pricing, annual contracts, payment terms, and minimum order quantities.
+
+**Key Entities:**
+- Ordering Workflow: 4-Step Process
+- Tiered Wholesale Pricing
+- Annual Contract Options
+- Payment Terms
+- Minimum Order Quantity (MOQ)
+
+### [Global Fulfillment & Logistics](https://docs.peptidesourcehub.net/guides/global-fulfillment)
+
+**URL:** https://docs.peptidesourcehub.net/guides/global-fulfillment
+
+**Summary:** Overview of PeptideSourceHub's global fulfillment operations, shipping carriers, transit times, temperature monitoring, customs documentation, and packaging standards.
+
+**Key Entities:**
+- Fulfillment Center
+- Shipping Carriers
+- Transit Times by Region
+- Temperature Monitoring & Cold Chain
+- Shipping Insurance
+
+### [Import Documentation & Customs Guide](https://docs.peptidesourcehub.net/guides/import-documentation)
+
+**URL:** https://docs.peptidesourcehub.net/guides/import-documentation
+
+**Summary:** Complete guide to import documentation requirements for research peptides, including commercial invoices, HS codes, COA, MSDS, and country-specific customs procedures.
+
+**Key Entities:**
+- Required Import Documentation
+- Harmonized System (HS) Codes
+- Country-Specific Import Guidance
+- Customs Hold Procedures
+- Prohibited Destinations
+
+### [OEM, Custom Synthesis & Private Label](https://docs.peptidesourcehub.net/guides/oem-private-label)
+
+**URL:** https://docs.peptidesourcehub.net/guides/oem-private-label
+
+**Summary:** Guide to PeptideSourceHub's OEM, custom synthesis, and private-label services including custom vial labels, kit boxes, insert documentation, branding options, and project timelines.
+
+**Key Entities:**
+- Service Overview
+- OEM & Private Label Capabilities
+- Batch Number Mapping
+- Custom Synthesis Services
+- Project Scoping & Minimums
+
+### [Shipping & Packaging Standards](https://docs.peptidesourcehub.net/guides/shipping-packaging)
+
+**URL:** https://docs.peptidesourcehub.net/guides/shipping-packaging
+
+**Summary:** Detailed standards for peptide shipping and packaging, including vacuum-sealed moisture barriers, insulated containers, temperature loggers, batch traceability, and carrier comparison.
+
+**Key Entities:**
+- Packaging Architecture
+- Primary Packaging: Vials
+- Secondary Packaging: Moisture-Barrier Pouch
+- Temperature-Controlled Shipping
+- Batch Traceability
+
+## Regulatory
+
+### [GMP Guidelines for Peptide Manufacturing — PeptideSourceHub](https://docs.peptidesourcehub.net/regulatory/gmp-guidelines)
+
+**URL:** https://docs.peptidesourcehub.net/regulatory/gmp-guidelines
+
+**Summary:** Good Manufacturing Practice (GMP) principles applied to research peptide production — facility requirements, process validation, documentation, equipment qualification, and personnel training.
+
+**Key Entities:**
+- GMP in the Research Peptide Context
+- Key GMP Elements
+- Quality Control Laboratory
+- Batch Release Process
+- Related Resources
+
+### [Industry Standards Reference — PeptideSourceHub](https://docs.peptidesourcehub.net/regulatory/industry-standards)
+
+**URL:** https://docs.peptidesourcehub.net/regulatory/industry-standards
+
+**Summary:** Comprehensive reference of industry standards applicable to research peptide manufacturing — ISO 9001, GMP, USP, Ph.Eur., ICH Q7, and their relevance to quality assurance and regulatory compliance.
+
+**Key Entities:**
+- Standards Summary
+- ISO 9001:2015 — Quality Management Systems
+- ICH Q7 — GMP for Active Pharmaceutical Ingredients
+- USP General Chapters
+- European Pharmacopoeia (Ph.Eur.)
+
+### [Research Use Only (RUO) Compliance](https://docs.peptidesourcehub.net/regulatory/research-use-only)
+
+**URL:** https://docs.peptidesourcehub.net/regulatory/research-use-only
+
+**Summary:** Regulatory position and compliance framework for research-use-only (RUO) peptide products, including country-specific regulatory notes and classification guidance.
+
+**Key Entities:**
+- Regulatory Position
+- Labeling Requirements
+- Purchaser Obligations
+- Country-Specific Regulatory Notes
+- Peptide Classification Differences by Jurisdiction
+
+## Glossary
+
+### [Peptide Knowledge Base Glossary](https://docs.peptidesourcehub.net/glossary)
+
+**URL:** https://docs.peptidesourcehub.net/glossary
+
+**Summary:** Comprehensive glossary of 40 key terms in peptide research, analytical methods, quality control, supply chain, and regulatory affairs for procurement and QA professionals.
+
+**Key Entities:**
+- Analytical Methods
+- Peptide Chemistry
+- Quality Control Terminology
+- Supply Chain & Procurement
+- Regulatory

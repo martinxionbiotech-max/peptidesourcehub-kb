@@ -99,6 +99,30 @@ Melatonin primarily regulates sleep timing (circadian phase shifting). DSIP prim
 
 ≥99% HPLC with ESI-MS identity. Trp¹ residue monitored for oxidation. Batch-specific COA included. Full analytical documentation for bulk orders.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Monnier M & Schoenenberger GA. "Characterization of a delta-electroencephalogram (-sleep)-inducing peptide." *Proc Natl Acad Sci USA*. 1977;74(3):1282–1286. | 265572 | Original isolation and characterization: DSIP induces slow-wave (delta) EEG activity; identified as nonapeptide Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu |
+| Pollmächer T & Schulz H. "Delta sleep-inducing peptide (DSIP): a still unresolved riddle." *J Sleep Res*. 2006;15(2):166–173. | 16539679 | Comprehensive review of DSIP pharmacology including HPA axis modulation, opioid-independent analgesia, and circadian effects |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile water or PBS |
+| **Trp¹ Oxidation** | N-terminal tryptophan residue is oxidation-sensitive; protect from direct light and oxidants. Verified by HPLC-MS (Met(O) content monitored) |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Selank** | [selank.md](selank.md) — Tuftsin-derived anxiolytic peptide |
+| **Semax** | [semax.md](semax.md) — ACTH-derived nootropic peptide |
+| **Epithalon** | [epithalon.md](epithalon.md) — Pineal tetrapeptide for longevity |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

@@ -97,3 +97,40 @@ Retatrutide is an investigational triple-hormone-receptor agonist designed to ac
 - Retatrutide is an investigational compound. The synthesis complexity, while slightly less than tirzepatide due to more favorable solubility and purification characteristics, still requires advanced solid-phase peptide synthesis expertise and rigorous QC.
 - Triple receptor agonism research should account for potential crosstalk between GIPR, GLP-1R, and GCGR signaling cascades when designing dose-response experiments.
 - The GCGR component distinguishes retatrutide from dual agonists; researchers studying metabolic endpoints should consider including glucagon and FGF21 measurements in their protocols.
+
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Jastreboff AM et al. "Triple-hormone-receptor agonist retatrutide for obesity — a phase 2 trial." *N Engl J Med*. 2023;389(6):514–526. | 37366315 | Phase 2 trial: retatrutide produced up to 24.2% body weight reduction at 48 weeks; dose-dependent improvements in liver fat, lipids, and glycemic control |
+| Coskun T et al. "LY3298176, a novel dual GIP and GLP-1 receptor agonist for the treatment of type 2 diabetes mellitus: From discovery to clinical proof of concept." *Mol Metab*. 2018;18:3–14. | 30473097 | While primarily describing tirzepatide, this foundational paper also characterizes the GIP/GLP-1/GCGR triple agonism framework that enabled retatrutide's design; details C20 fatty acid linker and balanced receptor activity engineering |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard GLP-1 receptor agonist family stability profile; no special handling beyond desiccated, temperature-controlled storage. 24 months at 2–8°C, 36 months at −20°C |
+| **Neutral pH (4.5–7.0)** | Stable; recommended pH range for reconstitution and working solutions |
+| **Acidic pH (<4.0)** | May promote aggregation of the C20 fatty diacid linker; avoid acidic buffers |
+| **Alkaline pH (>8.0)** | Risk of deamidation and C20 linker hydrolysis over extended incubation |
+| **Temperature Stress** | C20 eicosanedioic acid linker is hydrophobic; precipitation possible with temperature fluctuations. Gentle agitation recommended during reconstitution |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for ≤30 days |
+
+## Frequently Asked Questions
+
+### Q: What purity specifications apply to retatrutide?
+
+≥99.0% by HPLC at 214 nm with ESI-MS mass identity confirmation (±1.0 Da). Comprehensive QC includes peptide content (≥80.0%), water content (≤5.0%), counterion analysis (acetate form, ≤1.0% TFA), and endotoxin testing (≤1.0 EU/mg). The intact C20 fatty diacid conjugate and full 39-aa sequence are confirmed in every batch-specific COA.
+
+### Q: How should retatrutide be stored after reconstitution?
+
+Reconstituted retatrutide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use portions and freeze at −20°C (stable ≤30 days). May require pH adjustment for complete dissolution. The C20 fatty acid linker is hydrophobic — gentle agitation, not vortexing, during reconstitution. Avoid repeated freeze-thaw cycles. Standard GLP-1 receptor agonist family storage conditions apply.
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Tirzepatide (Dual GIP/GLP-1)** | [tirzepatide.md](tirzepatide.md) — First-in-class dual GIPR/GLP-1R agonist |
+| **Semaglutide (GLP-1 RA)** | [semaglutide.md](semaglutide.md) — Selective GLP-1 receptor agonist with C18 linker |
+| **Cagrilintide (Amylin Analog)** | [cagrilintide.md](cagrilintide.md) — Long-acting amylin receptor agonist |
+| **AOD-9604 (hGH Fragment)** | [aod-9604.md](aod-9604.md) — Lipolytic hGH fragment 177-191 |

@@ -98,6 +98,32 @@ No DAC: ~30 minutes → discrete GH pulse. With DAC: ~8 days (via albumin conjug
 
 HPLC-MS confirms the molecular ion without the maleimidopropionyl mass adduct (+97 Da absent vs DAC variant). Included in every batch-specific COA.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Teichman SL et al. "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults." *J Clin Endocrinol Metab*. 2006;91(3):799–805. | 16352683 | CJC-1295 (both DAC/no DAC forms) engineering with four amino acid substitutions for enhanced GHRH receptor activity and proteolytic stability |
+| Ionescu M & Frohman LA. "Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog." *J Clin Endocrinol Metab*. 2006;91(12):4792–4797. | 17018654 | The no-DAC variant mimics endogenous pulsatile GH secretion; DAC variant provides sustained GHRH-R activation |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **Short Half-Life (no DAC)** | ~30 minute plasma half-life by design; no albumin binding means rapid renal clearance. This is the intended pharmacological property — not degradation |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+| **No DAC Verification** | Absence of maleimidopropionyl mass adduct (+97 Da) confirmed by HPLC-MS in every batch |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **CJC-1295 (DAC)** | [cjc-1295-dac.md](cjc-1295-dac.md) — Long-acting GHRH analogue with ~8-day half-life |
+| **Ipamorelin** | [ipamorelin.md](ipamorelin.md) — Selective GHS-R1a agonist for clean GH pulse |
+| **GHRP-2** | [ghrp-2.md](ghrp-2.md) — Potent ghrelin receptor agonist |
+| **HGH (Somatropin)** | [hgh.md](hgh.md) — 191-aa human growth hormone |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

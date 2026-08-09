@@ -101,6 +101,33 @@ No. Thymosin α1 (28 amino acids, ~3,108 Da) and Thymosin β4 (43 amino acids, ~
 
 Yes. Standard kit is 5mg × 10 vials. Custom mg per vial and vial count available for qualifying wholesale orders. Contact us for a custom quotation including private-label options.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Malinda KM et al. "Thymosin β4 accelerates wound healing." *J Invest Dermatol*. 1999;113(3):364–368. | 10469335 | Full-length Thymosin Beta-4 significantly accelerates dermal wound closure and increases collagen deposition in vivo through cell migration and angiogenesis |
+| Bock-Marquette I et al. "Thymosin β4 activates integrin-linked kinase and promotes cardiac cell migration, survival, and cardiac repair." *Nature*. 2004;432(7016):466–472. | 15565145 | Tβ4 activates Akt via integrin-linked kinase, promoting cardiomyocyte survival post-MI; reduces scar size and improves cardiac function |
+| Philp D et al. "Thymosin β4 promotes angiogenesis, wound healing, and hair follicle development." *Mech Ageing Dev*. 2004;125(2):113–115. | 15037013 | Tβ4 stimulates endothelial cell migration, capillary formation, VEGF expression, and hair follicle anagen phase promotion |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **Neutral pH (7.0–7.4)** | Stable; recommended for reconstitution in sterile water or PBS. pH 7.0–7.4 is optimal for the full-length 43-amino acid protein |
+| **Acidic pH (<5.0)** | Risk of protein denaturation and aggregation; avoid acidic buffers |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot single-use portions and freeze at −20°C. Larger protein (~5 kDa) — handle gently, never vortex. Avoid repeated freeze-thaw |
+| **N-Terminal Acetylation** | Ac-SDKP N-terminal acetyl group provides additional stability against aminopeptidase degradation |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **TB-500 (Tβ4 Fragment 17–23)** | [tb-500.md](tb-500.md) — Synthetic actin-binding domain fragment |
+| **BPC-157** | [bpc-157.md](bpc-157.md) — Protection compound for tissue repair |
+| **ARA-290** | [ara-290.md](ara-290.md) — Innate Repair Receptor agonist |
+| **GHK-Cu** | [ghk-cu.md](ghk-cu.md) — Copper tripeptide for wound healing |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

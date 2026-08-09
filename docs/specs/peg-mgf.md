@@ -98,6 +98,32 @@ Satellite cell (muscle stem cell) biology, muscle regeneration/repair following 
 
 Beyond standard HPLC and MS: SDS-PAGE confirms PEGylation band shift; LAL endotoxin testing; NMR or colorimetric PEG verification. All in batch-specific COA.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Yang S & Goldspink G. "Different roles of the IGF-I Ec peptide (MGF) and mature IGF-I in myoblast proliferation and differentiation." *FEBS Lett*. 2002;522(1-3):156–160. | 12095637 | MGF (IGF-1Ec) E-domain peptide specifically activates satellite cell (myoblast) proliferation while mature IGF-1 drives differentiation; distinct receptor targets |
+| Hill M & Goldspink G. "Expression and splicing of the insulin-like growth factor gene in rodent muscle is associated with muscle satellite (stem) cell activation following local tissue damage." *J Physiol*. 2003;549(Pt 2):409–418. | 12692175 | Mechanical loading induces MGF splice variant expression locally in muscle; rapid satellite cell activation response to muscle damage |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Native Half-Life** | Native (non-PEGylated) MGF has a very short half-life (minutes). PEGylation is essential for research viability |
+| **PEG Conjugate Stability** | The polyethylene glycol moiety dramatically extends half-life from minutes to ~24 hours and provides steric protection against proteolysis |
+| **Lyophilized Storage** | 24 months at 2–8°C in desiccated environment, protect from light |
+| **Reconstituted Solution** | Use within 24 h at 2–8°C. PEG-MGF is a ~11.5 kDa PEG-protein conjugate — handle gently, never vortex. Aliquot and freeze at −20°C |
+| **PEGylation Verification** | SDS-PAGE band shift confirmation in every batch; PEG-specific colorimetric or NMR assay for bulk orders |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **HGH (Somatropin)** | [hgh.md](hgh.md) — 191-aa human growth hormone |
+| **CJC-1295 (DAC)** | [cjc-1295-dac.md](cjc-1295-dac.md) — Long-acting GHRH analogue |
+| **Ipamorelin** | [ipamorelin.md](ipamorelin.md) — Selective GHS-R1a agonist |
+| **AOD-9604 (hGH Fragment)** | [aod-9604.md](aod-9604.md) — Lipolytic hGH fragment 177-191 |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

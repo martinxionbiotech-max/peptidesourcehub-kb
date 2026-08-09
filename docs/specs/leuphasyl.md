@@ -98,6 +98,31 @@ Yes. As a short pentapeptide (~623.7 Da), Leuphasyl shows good stability at pH 5
 
 ≥99% by HPLC with ESI-MS identity. The D-Ala² substitution is verified by chiral amino acid analysis. Batch-specific COA included.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Gorouhi F & Maibach HI. "Role of topical peptides in preventing or treating aged skin." *Int J Cosmet Sci*. 2009;31(5):327–345. | 19570099 | Review of cosmetic peptides including Leuphasyl (Pentapeptide-18); enkephalin-derived δ-opioid mechanism for anti-wrinkle research |
+| Lupo MP & Cole AL. "Cosmeceutical peptides." *Dermatol Ther*. 2007;20(5):343–349. | 18045359 | Comprehensive review of cosmetic peptides including Leuphasyl as δ-opioid receptor agonist; mechanism distinct from SNARE-targeting peptides |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **D-Ala² Stability** | D-Ala² substitution confers resistance to aminopeptidase degradation; significantly extended half-life vs natural enkephalins |
+| **Neutral pH (5.0–7.0)** | Stable; compatible with cosmetic formulation conditions. Small pentapeptide (~624 Da) with good stratum corneum penetration |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Argireline (Acetyl Hexapeptide-8)** | [argireline.md](argireline.md) — SNARE complex inhibitor |
+| **Snap-8 (Acetyl Octapeptide-3)** | [snap-8.md](snap-8.md) — SNAP-25 competition peptide |
+| **Matrixyl (Palmitoyl Pentapeptide-4)** | [matrixyl.md](matrixyl.md) — Matrikine signaling for collagen synthesis |
+| **GHK-Cu (Copper Tripeptide)** | [ghk-cu.md](ghk-cu.md) — Copper peptide for wound healing |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

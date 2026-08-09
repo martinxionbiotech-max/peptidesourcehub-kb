@@ -99,6 +99,31 @@ The hypothesis proposes that the pineal gland produces peptide bioregulators coo
 
 ≥99% by HPLC at 214 nm. As a simple tetrapeptide, synthesis is straightforward but the C-terminal glycine requires careful handling to avoid racemization. ESI-MS and amino acid analysis in every COA.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Khavinson VKh et al. "Effect of epitalon on the lifespan increase in Drosophila melanogaster." *Mech Ageing Dev*. 2000;120(1-3):141–149. | 11087911 | Epithalon (Ala-Glu-Asp-Gly) extended lifespan in Drosophila via telomerase activation; established the pineal peptide-lifespan connection |
+| Khavinson VKh et al. "Induction of telomerase activity by peptide bioregulators in human somatic cells." *Bull Exp Biol Med*. 2003;135(6):605–608. | 12937682 | Epithalon activates hTERT gene expression in human somatic cells, promoting telomere length maintenance and extended replicative lifespan |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Stable; standard storage conditions. 24 months at 2–8°C in desiccated environment, protect from light |
+| **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile water or PBS |
+| **Racemization Risk** | C-terminal glycine susceptible to racemization during synthesis; HPLC confirms correct stereochemistry in every batch |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Small tetrapeptide — no special handling beyond standard peptide storage |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **DSIP** | [dsip.md](dsip.md) — Delta sleep-inducing peptide |
+| **Selank** | [selank.md](selank.md) — Tuftsin-derived anxiolytic peptide |
+| **Semax** | [semax.md](semax.md) — ACTH-derived nootropic peptide |
+| **FOXO4-DRI** | [foxo4-dri.md](foxo4-dri.md) — Senolytic peptide for cellular senescence |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

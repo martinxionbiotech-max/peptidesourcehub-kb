@@ -100,6 +100,32 @@ Rodent research: 100 IU kit (10 IU vials) for weight-based dosing. Larger animal
 
 Three methods: (1) Mass spectrometry confirms MW ~22,125 Da ±5 Da — a fragment would show different mass. (2) SDS-PAGE shows single band at ~22 kDa — multiple bands = impurities or degradation. (3) RP-HPLC confirms ≥99% single-peak purity. All three in our QC release testing for research-grade HGH.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Rudman D et al. "Effects of human growth hormone in men over 60 years old." *N Engl J Med*. 1990;323(1):1–6. | 2355952 | Landmark study demonstrating that recombinant hGH administration increased lean body mass and decreased adipose mass in elderly men; foundational work on GH/IGF-1 axis in aging |
+| Yarasheski KE et al. "Effect of growth hormone and resistance exercise on muscle growth in young men." *Am J Physiol*. 1992;262(3 Pt 1):E261–E267. | 1550219 | hGH combined with resistance exercise increased muscle protein synthesis; characterisation of JAK-STAT/IGF-1 anabolic pathway in skeletal muscle |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | 24 months at 2–8°C; protect from light and moisture. 191-amino acid protein — more sensitive than small peptides |
+| **Reconstitution** | Use sterile or bacteriostatic water. Add diluent gently down vial wall. Swirl gently — NEVER shake or vortex (denatures the protein) |
+| **Aggregation** | hGH is aggregation-prone. Never freeze-thaw reconstituted hGH — causes irreversible aggregation and bioactivity loss |
+| **Reconstituted Storage** | 2–8°C only; use within 7–14 days. Do NOT freeze reconstituted solutions |
+| **pH Sensitivity** | Optimal stability at pH 6.8–7.4. pH extremes cause denaturation and precipitation |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **CJC-1295 (DAC)** | [cjc-1295-dac.md](cjc-1295-dac.md) — Long-acting GHRH analogue |
+| **CJC-1295 (no DAC)** | [cjc-1295-no-dac.md](cjc-1295-no-dac.md) — Pulsatile GHRH analogue |
+| **Ipamorelin** | [ipamorelin.md](ipamorelin.md) — Selective GHS-R1a agonist |
+| **PEG-MGF** | [peg-mgf.md](peg-mgf.md) — PEGylated IGF-1Ec for satellite cell activation |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)

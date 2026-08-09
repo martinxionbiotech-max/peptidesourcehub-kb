@@ -129,4 +129,4 @@ Every international shipment includes a complete customs documentation package:
 | **Brazil** | ANVISA import requirements may necessitate additional documentation. Contact our logistics team for Brazil-specific guidance before ordering. |
 | **Russia/CIS** | Extended transit times (7–14 days). Temperature-controlled shipping strongly recommended. |
 
-For country-specific import requirements, consult our [Import Documentation Guide](../guides/import-documentation/).
+For country-specific import requirements, consult our [Import Documentation Guide](import-documentation.md).

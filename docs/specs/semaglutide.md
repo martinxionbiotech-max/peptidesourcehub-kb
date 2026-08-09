@@ -1,6 +1,16 @@
 ---
 title: "Semaglutide — Technical Specification"
 description: "Technical specification for Semaglutide (CAS 910463-68-2), a long-acting GLP-1 receptor agonist with Aib⁸ substitution and C18 fatty diacid linker for laboratory research."
+schema_type: FAQPage
+faq_json:
+  - q: "What is the purity level of Semaglutide?"
+    a: "Semaglutide is supplied at ≥99% purity verified by HPLC analysis with full Certificate of Analysis documentation."
+  - q: "How should Semaglutide be stored for research use?"
+    a: "Store lyophilized Semaglutide at -20°C for long-term stability. Reconstituted solutions should be stored at 2-8°C and used within 7-14 days."
+  - q: "What is the molecular structure of Semaglutide?"
+    a: "Semaglutide is a 31-amino acid GLP-1 analog (CAS 910463-68-2) with Aib⁸ substitution for DPP-4 resistance and a C18 fatty diacid linker conjugated to Lys²⁶ for extended albumin binding, with a molecular weight of approximately 4,113.6 Da."
+  - q: "Is Semaglutide suitable for human use?"
+    a: "No. Semaglutide is labeled FOR LABORATORY RESEARCH USE ONLY and is not approved by regulatory authorities for human therapeutic or diagnostic use."
 ---
 
 # Semaglutide
@@ -99,3 +109,41 @@ Semaglutide is investigated across a broad range of metabolic research domains:
 - **FOR LABORATORY RESEARCH USE ONLY.**
 - Aib⁸ incorporation increases synthetic complexity; batch-to-batch consistency is verified by HPLC-MS.
 - The C18 fatty diacid linker is hydrophobic; reconstitution may require gentle agitation and pH adjustment.
+
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Lau J et al. "Discovery of the once-weekly glucagon-like peptide-1 (GLP-1) analogue semaglutide." *J Med Chem*. 2015;58(18):7370–7380. | 26308095 | Engineering of semaglutide with Aib⁸ substitution for DPP-4 resistance and C18 fatty diacid for albumin binding; 7-day half-life demonstrated |
+| Marso SP et al. "Semaglutide and cardiovascular outcomes in patients with type 2 diabetes." *N Engl J Med*. 2016;375(19):1834–1844. | 27633186 | SUSTAIN-6 trial: semaglutide reduced MACE outcomes in T2D; established cardiovascular benefit for GLP-1 RA class |
+| Newsome PN et al. "A placebo-controlled trial of subcutaneous semaglutide in nonalcoholic steatohepatitis." *N Engl J Med*. 2021;384(12):1113–1124. | 33185364 | Semaglutide significantly improved NASH resolution without worsening fibrosis in biopsy-confirmed NASH patients |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard lyophilized peptide stability; no special handling beyond desiccated, temperature-controlled storage. 24 months at 2–8°C, 36 months at −20°C |
+| **Neutral pH (5.0–7.5)** | Stable; recommended pH for reconstitution and working solutions |
+| **Acidic pH (<4.0)** | May promote aggregation of the hydrophobic C18 linker; avoid strongly acidic buffers |
+| **Alkaline pH (>8.0)** | Risk of deamidation and C18 linker hydrolysis over extended periods |
+| **Temperature Stress** | The C18 fatty diacid linker is hydrophobic; can aggregate or precipitate under temperature fluctuations. Gentle agitation required during reconstitution |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for ≤30 days. Avoid repeated freeze-thaw |
+
+## Frequently Asked Questions
+
+### Q: What purity specifications apply to semaglutide?
+
+≥99.0% by HPLC at 214 nm with ESI-MS mass identity confirmation (±1.0 Da). Additional QC includes peptide content (≥80.0%), water content (≤5.0%), and linker integrity verification by LC-MS for bulk orders. The Aib⁸ substitution and intact C18 fatty diacid conjugate are confirmed in every batch-specific COA.
+
+### Q: How should semaglutide be stored after reconstitution?
+
+Reconstituted semaglutide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use sterile vials and freeze at −20°C (stable ≤30 days). Do not store in alkaline buffers (pH > 8) which can cause deamidation and linker hydrolysis. The hydrophobic C18 linker may require gentle agitation during reconstitution — never vortex or shake vigorously. Avoid repeated freeze-thaw cycles.
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Tirzepatide (Dual GIP/GLP-1)** | [tirzepatide.md](tirzepatide.md) — Dual GIPR/GLP-1R agonist |
+| **Retatrutide (Triple Agonist)** | [retatrutide.md](retatrutide.md) — Triple GIPR/GLP-1R/GCGR agonist |
+| **Cagrilintide (Amylin Analog)** | [cagrilintide.md](cagrilintide.md) — Long-acting amylin receptor agonist |
+| **AOD-9604 (hGH Fragment)** | [aod-9604.md](aod-9604.md) — Lipolytic hGH fragment 177-191 |

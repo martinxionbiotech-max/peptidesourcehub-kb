@@ -98,6 +98,32 @@ Stable at pH 5.0–7.0. N-terminal acetylation and C-terminal amidation protect 
 
 Batch-specific COA: HPLC purity (≥99%), ESI-MS identity, peptide content by amino acid analysis. Commercial invoice and packing list included. Full analytical package for bulk orders.
 
+## Key Research References
+
+| Reference | PMID | Key Finding |
+|---|---|---|
+| Blanes-Mira C et al. "A synthetic hexapeptide (Argireline) with antiwrinkle activity." *Int J Cosmet Sci*. 2002;24(5):303–310. | 18498523 | Argireline inhibits SNARE complex formation by mimicking SNAP-25 N-terminal domain; reduces ACh release in a topical botulinum-mimetic mechanism |
+| Lupo MP & Cole AL. "Cosmeceutical peptides." *Dermatol Ther*. 2007;20(5):343–349. | 18045359 | Comprehensive review of Argireline as the prototypical neurotransmitter-inhibiting cosmetic peptide for anti-wrinkle applications |
+
+## Stability & Storage
+
+| Condition | Degradation Profile |
+|---|---|
+| **Lyophilized Storage** | Standard peptide stability; 24 months at 2–8°C in desiccated environment, protect from light |
+| **Neutral pH (5.0–7.0)** | Stable; N-terminal acetylation and C-terminal amidation protect against exopeptidase degradation |
+| **Acidic pH (<4.0)** | Avoid strongly acidic conditions; Met³ residue susceptible to oxidation |
+| **Alkaline pH (>8.0)** | Risk of Met³ oxidation and peptide bond hydrolysis; avoid alkaline buffers |
+| **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
+
+## Related Products
+
+| Product | Link |
+|---|---|
+| **Snap-8 (Acetyl Octapeptide-3)** | [snap-8.md](snap-8.md) — SNAP-25 competition peptide |
+| **Leuphasyl (Pentapeptide-18)** | [leuphasyl.md](leuphasyl.md) — δ-opioid receptor agonist for fine lines |
+| **Matrixyl (Palmitoyl Pentapeptide-4)** | [matrixyl.md](matrixyl.md) — Matrikine signaling for collagen synthesis |
+| **GHK-Cu (Copper Tripeptide)** | [ghk-cu.md](ghk-cu.md) — Copper peptide for wound healing & collagen |
+
 ## Related Resources
 
 - [All Product Specifications](index.md)
