@@ -117,6 +117,12 @@ Three methods: (1) Mass spectrometry confirms MW ~22,125 Da ±5 Da — a fragmen
 | **Reconstituted Storage** | 2–8°C only; use within 7–14 days. Do NOT freeze reconstituted solutions |
 | **pH Sensitivity** | Optimal stability at pH 6.8–7.4. pH extremes cause denaturation and precipitation |
 
+
+## Source & Purchase
+
+For researchers requiring HGH with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/hgh/) for bulk pricing and specifications.
+
+[Purchase HGH with COA →](https://peptidesourcehub.net/products/hgh/)
 ## Related Products
 
 | Product | Link |
@@ -131,4 +137,3 @@ Three methods: (1) Mass spectrometry confirms MW ~22,125 Da ±5 Da — a fragmen
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → HGH](https://peptidesourcehub.net/products/hgh/)

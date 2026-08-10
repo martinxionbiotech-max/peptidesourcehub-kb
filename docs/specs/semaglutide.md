@@ -139,6 +139,12 @@ Semaglutide is investigated across a broad range of metabolic research domains:
 
 Reconstituted semaglutide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use sterile vials and freeze at −20°C (stable ≤30 days). Do not store in alkaline buffers (pH > 8) which can cause deamidation and linker hydrolysis. The hydrophobic C18 linker may require gentle agitation during reconstitution — never vortex or shake vigorously. Avoid repeated freeze-thaw cycles.
 
+
+## Source & Purchase
+
+For researchers requiring SEMAGLUTIDE with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/semaglutide/) for bulk pricing and specifications.
+
+[Purchase SEMAGLUTIDE with COA →](https://peptidesourcehub.net/products/semaglutide/)
 ## Related Products
 
 | Product | Link |

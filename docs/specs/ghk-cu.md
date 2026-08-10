@@ -126,6 +126,12 @@ GHK is a naturally occurring tripeptide present in human plasma at approximately
 
 Store lyophilized GHK-Cu at 2–8°C or −20°C in tightly sealed, light-protected containers (amber vials or opaque packaging). After reconstitution, use within 24 hours at 2–8°C or aliquot into single-use portions and freeze at −20°C. Critical: protect from light at all times — the copper complex photodegrades. Never co-formulate with EDTA or strong metal chelators, as they strip the essential Cu²⁺ ion from the complex.
 
+
+## Source & Purchase
+
+For researchers requiring GHK CU with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/ghk-cu/) for bulk pricing and specifications.
+
+[Purchase GHK CU with COA →](https://peptidesourcehub.net/products/ghk-cu/)
 ## Related Products
 
 | Product | Link |

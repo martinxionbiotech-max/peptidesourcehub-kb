@@ -68,3 +68,17 @@ The complete QC framework including analytical methodology, acceptance criteria,
 *For product inquiries, custom synthesis requests, and pricing, visit [peptidesourcehub.net](https://peptidesourcehub.net).*
 
 *Last updated: August 2026*
+
+
+## Product Catalog
+
+For product pricing, custom synthesis requests, and bulk ordering, visit the [PeptideSourceHub online catalog](https://peptidesourcehub.net/products/).
+
+| Category | Main Site |
+|---|---|
+| GLP-1 & Metabolic | [Metabolic Peptides](https://peptidesourcehub.net/products/metabolic/) |
+| Healing & Recovery | [Healing & Recovery](https://peptidesourcehub.net/products/healing-recovery/) |
+| Cosmetic & Skin | [Cosmetic & Skin Peptides](https://peptidesourcehub.net/products/cosmetic-skin/) |
+| Growth & GH Secretagogues | [Muscle Growth](https://peptidesourcehub.net/products/muscle-growth/) |
+| Nootropic & Anti-Aging | [Nootropic & Anti-Aging](https://peptidesourcehub.net/products/nootropic-anti-aging/) |
+| Specialty Stacks | [Specialty Stacks](https://peptidesourcehub.net/products/specialty-stacks/) |

@@ -114,6 +114,12 @@ Yes. Matrixyl's ECM-building mechanism is complementary to neurotransmitter-targ
 | **Neutral pH (5.0–7.0)** | Stable; recommended for reconstitution and formulation. Palmitoyl group imparts limited aqueous solubility — use co-solvents in formulation |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Expect limited aqueous solubility due to lipophilic C16 chain |
 
+
+## Source & Purchase
+
+For research-grade MATRIXYL and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/cosmetic-skin/) for bulk pricing and available specifications.
+
+[Browse MATRIXYL & Related Products →](https://peptidesourcehub.net/products/cosmetic-skin/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Yes. Matrixyl's ECM-building mechanism is complementary to neurotransmitter-targ
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Matrixyl](https://peptidesourcehub.net/products/matrixyl/)

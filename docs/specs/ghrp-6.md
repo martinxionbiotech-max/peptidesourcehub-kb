@@ -114,6 +114,12 @@ Lyophilized: 2–8°C, desiccated, 24-month stability. Reconstitute, aliquot, st
 | **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C. D-amino acid backbone provides good solution stability. Avoid freeze-thaw cycles |
 
+
+## Source & Purchase
+
+For research-grade GHRP 6 and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/muscle-growth/) for bulk pricing and available specifications.
+
+[Browse GHRP 6 & Related Products →](https://peptidesourcehub.net/products/muscle-growth/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Lyophilized: 2–8°C, desiccated, 24-month stability. Reconstitute, aliquot, st
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → GHRP-6](https://peptidesourcehub.net/products/ghrp-6/)

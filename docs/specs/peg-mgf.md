@@ -115,6 +115,12 @@ Beyond standard HPLC and MS: SDS-PAGE confirms PEGylation band shift; LAL endoto
 | **Reconstituted Solution** | Use within 24 h at 2–8°C. PEG-MGF is a ~11.5 kDa PEG-protein conjugate — handle gently, never vortex. Aliquot and freeze at −20°C |
 | **PEGylation Verification** | SDS-PAGE band shift confirmation in every batch; PEG-specific colorimetric or NMR assay for bulk orders |
 
+
+## Source & Purchase
+
+For research-grade PEG MGF and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/muscle-growth/) for bulk pricing and available specifications.
+
+[Browse PEG MGF & Related Products →](https://peptidesourcehub.net/products/muscle-growth/)
 ## Related Products
 
 | Product | Link |
@@ -129,4 +135,3 @@ Beyond standard HPLC and MS: SDS-PAGE confirms PEGylation band shift; LAL endoto
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → PEG-MGF](https://peptidesourcehub.net/products/peg-mgf/)

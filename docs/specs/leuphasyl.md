@@ -114,6 +114,12 @@ Yes. As a short pentapeptide (~623.7 Da), Leuphasyl shows good stability at pH 5
 | **Neutral pH (5.0–7.0)** | Stable; compatible with cosmetic formulation conditions. Small pentapeptide (~624 Da) with good stratum corneum penetration |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 
+
+## Source & Purchase
+
+For research-grade LEUPHASYL and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/cosmetic-skin/) for bulk pricing and available specifications.
+
+[Browse LEUPHASYL & Related Products →](https://peptidesourcehub.net/products/cosmetic-skin/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Yes. As a short pentapeptide (~623.7 Da), Leuphasyl shows good stability at pH 5
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Leuphasyl](https://peptidesourcehub.net/products/leuphasyl/)

@@ -118,6 +118,12 @@ No — a significant distinction from benzodiazepines. In animal models, Selank 
 | **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile water or PBS |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 
+
+## Source & Purchase
+
+For research-grade SELANK and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/nootropic-anti-aging/) for bulk pricing and available specifications.
+
+[Browse SELANK & Related Products →](https://peptidesourcehub.net/products/nootropic-anti-aging/)
 ## Related Products
 
 | Product | Link |
@@ -132,4 +138,3 @@ No — a significant distinction from benzodiazepines. In animal models, Selank 
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Selank](https://peptidesourcehub.net/products/selank/)

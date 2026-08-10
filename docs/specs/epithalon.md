@@ -115,6 +115,12 @@ The hypothesis proposes that the pineal gland produces peptide bioregulators coo
 | **Racemization Risk** | C-terminal glycine susceptible to racemization during synthesis; HPLC confirms correct stereochemistry in every batch |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Small tetrapeptide — no special handling beyond standard peptide storage |
 
+
+## Source & Purchase
+
+For research-grade EPITHALON and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/nootropic-anti-aging/) for bulk pricing and available specifications.
+
+[Browse EPITHALON & Related Products →](https://peptidesourcehub.net/products/nootropic-anti-aging/)
 ## Related Products
 
 | Product | Link |
@@ -129,4 +135,3 @@ The hypothesis proposes that the pineal gland produces peptide bioregulators coo
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Epithalon](https://peptidesourcehub.net/products/epithalon/)

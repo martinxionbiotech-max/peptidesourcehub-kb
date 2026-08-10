@@ -126,6 +126,12 @@ Retatrutide is an investigational triple-hormone-receptor agonist designed to ac
 
 Reconstituted retatrutide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use portions and freeze at −20°C (stable ≤30 days). May require pH adjustment for complete dissolution. The C20 fatty acid linker is hydrophobic — gentle agitation, not vortexing, during reconstitution. Avoid repeated freeze-thaw cycles. Standard GLP-1 receptor agonist family storage conditions apply.
 
+
+## Source & Purchase
+
+For researchers requiring RETATRUTIDE with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/retatrutide/) for bulk pricing and specifications.
+
+[Purchase RETATRUTIDE with COA →](https://peptidesourcehub.net/products/retatrutide/)
 ## Related Products
 
 | Product | Link |

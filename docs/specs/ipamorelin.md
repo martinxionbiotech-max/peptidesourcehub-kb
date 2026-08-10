@@ -114,6 +114,12 @@ Minimally. GHRP-6 is a potent ghrelin mimetic that strongly activates hunger sig
 | **Neutral pH (6.0–7.5)** | Stable; recommended for reconstitution in sterile or bacteriostatic water |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C. Modified amino acids provide good solution stability. Avoid freeze-thaw cycles |
 
+
+## Source & Purchase
+
+For research-grade IPAMORELIN and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/muscle-growth/) for bulk pricing and available specifications.
+
+[Browse IPAMORELIN & Related Products →](https://peptidesourcehub.net/products/muscle-growth/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Minimally. GHRP-6 is a potent ghrelin mimetic that strongly activates hunger sig
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Ipamorelin](https://peptidesourcehub.net/products/ipamorelin/)

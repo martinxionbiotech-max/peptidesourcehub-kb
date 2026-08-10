@@ -116,6 +116,12 @@ Beyond standard tests: chiral amino acid analysis confirms all D-configuration r
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 | **47-mer Handling** | Larger peptide (MW ~4,316 Da) — use siliconized vials and low-retention tips to minimize non-specific adsorption |
 
+
+## Source & Purchase
+
+For research-grade FOXO4 DRI and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/nootropic-anti-aging/) for bulk pricing and available specifications.
+
+[Browse FOXO4 DRI & Related Products →](https://peptidesourcehub.net/products/nootropic-anti-aging/)
 ## Related Products
 
 | Product | Link |
@@ -130,4 +136,3 @@ Beyond standard tests: chiral amino acid analysis confirms all D-configuration r
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → FOXO4-DRI](https://peptidesourcehub.net/products/foxo4-dri/)

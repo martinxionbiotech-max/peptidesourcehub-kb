@@ -115,6 +115,12 @@ HPLC-MS confirms the molecular ion without the maleimidopropionyl mass adduct (+
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 | **No DAC Verification** | Absence of maleimidopropionyl mass adduct (+97 Da) confirmed by HPLC-MS in every batch |
 
+
+## Source & Purchase
+
+For research-grade CJC 1295 NO DAC and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/muscle-growth/) for bulk pricing and available specifications.
+
+[Browse CJC 1295 NO DAC & Related Products →](https://peptidesourcehub.net/products/muscle-growth/)
 ## Related Products
 
 | Product | Link |
@@ -129,4 +135,3 @@ HPLC-MS confirms the molecular ion without the maleimidopropionyl mass adduct (+
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → CJC-1295 (no DAC)](https://peptidesourcehub.net/products/cjc-1295-no-dac/)

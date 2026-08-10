@@ -114,6 +114,12 @@ Yes — this is a common research combination. Snap-8 targets SNARE complex asse
 | **Neutral pH (5.0–7.0)** | Stable; compatible with cosmetic formulation conditions at standard pH |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Met⁵ residue susceptible to oxidation — protect from oxidative conditions |
 
+
+## Source & Purchase
+
+For research-grade SNAP 8 and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/cosmetic-skin/) for bulk pricing and available specifications.
+
+[Browse SNAP 8 & Related Products →](https://peptidesourcehub.net/products/cosmetic-skin/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Yes — this is a common research combination. Snap-8 targets SNARE complex asse
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Snap-8](https://peptidesourcehub.net/products/snap-8/)

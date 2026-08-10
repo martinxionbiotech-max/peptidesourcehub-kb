@@ -138,6 +138,12 @@ Tirzepatide is a first-in-class dual GIP and GLP-1 receptor agonist. Its design 
 
 Reconstituted tirzepatide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use sterile vials and freeze at −20°C (stable ≤30 days). The C20 fatty diacid linker is highly hydrophobic — gentle agitation may be required during reconstitution. Never vortex. Avoid strongly acidic (pH < 4) or alkaline (pH > 8) buffers. Do not subject to repeated freeze-thaw cycles.
 
+
+## Source & Purchase
+
+For researchers requiring TIRZEPATIDE with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/tirzepatide/) for bulk pricing and specifications.
+
+[Purchase TIRZEPATIDE with COA →](https://peptidesourcehub.net/products/tirzepatide/)
 ## Related Products
 
 | Product | Link |

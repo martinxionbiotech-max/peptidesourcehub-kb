@@ -115,6 +115,12 @@ Standard: 2mg × 10 vials. Bulk: 5mg × 10 vials. Custom mg/vial for OEM/private
 | **Albumin Conjugation** | The DAC linker covalently binds Cys³⁴ of serum albumin spontaneously in solution — this is the designed mechanism, not degradation |
 | **Reconstituted Solution** | 24 h at 2–8°C. The DAC-albumin conjugate forms in solution — expect mass shift on analytical characterization. Avoid repeated freeze-thaw |
 
+
+## Source & Purchase
+
+For research-grade CJC 1295 DAC and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/muscle-growth/) for bulk pricing and available specifications.
+
+[Browse CJC 1295 DAC & Related Products →](https://peptidesourcehub.net/products/muscle-growth/)
 ## Related Products
 
 | Product | Link |
@@ -129,4 +135,3 @@ Standard: 2mg × 10 vials. Bulk: 5mg × 10 vials. Custom mg/vial for OEM/private
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → CJC-1295 (DAC)](https://peptidesourcehub.net/products/cjc-1295-dac/)

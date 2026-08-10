@@ -115,6 +115,12 @@ Batch-specific COA: HPLC purity (≥99%), ESI-MS identity, peptide content by am
 | **Alkaline pH (>8.0)** | Risk of Met³ oxidation and peptide bond hydrolysis; avoid alkaline buffers |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 
+
+## Source & Purchase
+
+For research-grade ARGIRELINE and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/cosmetic-skin/) for bulk pricing and available specifications.
+
+[Browse ARGIRELINE & Related Products →](https://peptidesourcehub.net/products/cosmetic-skin/)
 ## Related Products
 
 | Product | Link |
@@ -129,4 +135,3 @@ Batch-specific COA: HPLC purity (≥99%), ESI-MS identity, peptide content by am
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Argireline](https://peptidesourcehub.net/products/argireline/)

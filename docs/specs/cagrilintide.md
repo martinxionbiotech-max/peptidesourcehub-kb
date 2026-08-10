@@ -110,6 +110,12 @@ Cagrilintide is a synthetic amylin analog engineered for extended pharmacokineti
 
 Reconstituted cagrilintide is stable for 24 hours at 2–8°C. For longer storage, aliquot into single-use portions and freeze at −20°C (stable ≤30 days). Avoid reconstitution in acidic buffers (pH < 4.0) which may promote aggregation despite the engineered reduction in amyloidogenicity. For combination studies with semaglutide, prepare fresh mixtures immediately before use. Avoid repeated freeze-thaw cycles.
 
+
+## Source & Purchase
+
+For researchers requiring CAGRILINTIDE with full analytical documentation including HPLC and LC-MS traces, visit the [PeptideSourceHub product page](https://peptidesourcehub.net/products/cagrilintide/) for bulk pricing and specifications.
+
+[Purchase CAGRILINTIDE with COA →](https://peptidesourcehub.net/products/cagrilintide/)
 ## Related Products
 
 | Product | Link |

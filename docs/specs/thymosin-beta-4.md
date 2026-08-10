@@ -119,6 +119,12 @@ Yes. Standard kit is 5mg × 10 vials. Custom mg per vial and vial count availabl
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot single-use portions and freeze at −20°C. Larger protein (~5 kDa) — handle gently, never vortex. Avoid repeated freeze-thaw |
 | **N-Terminal Acetylation** | Ac-SDKP N-terminal acetyl group provides additional stability against aminopeptidase degradation |
 
+
+## Source & Purchase
+
+For research-grade THYMOSIN BETA 4 and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/healing-recovery/) for bulk pricing and available specifications.
+
+[Browse THYMOSIN BETA 4 & Related Products →](https://peptidesourcehub.net/products/healing-recovery/)
 ## Related Products
 
 | Product | Link |
@@ -133,4 +139,3 @@ Yes. Standard kit is 5mg × 10 vials. Custom mg per vial and vial count availabl
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → Thymosin Beta-4](https://peptidesourcehub.net/products/thymosin-beta-4/)

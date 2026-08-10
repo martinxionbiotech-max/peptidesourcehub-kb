@@ -115,6 +115,12 @@ Melatonin primarily regulates sleep timing (circadian phase shifting). DSIP prim
 | **Trp¹ Oxidation** | N-terminal tryptophan residue is oxidation-sensitive; protect from direct light and oxidants. Verified by HPLC-MS (Met(O) content monitored) |
 | **Reconstituted Solution** | 24 h at 2–8°C; aliquot and freeze at −20°C for extended use. Avoid repeated freeze-thaw |
 
+
+## Source & Purchase
+
+For research-grade DSIP and related compounds in this category, visit the [PeptideSourceHub category page](https://peptidesourcehub.net/products/nootropic-anti-aging/) for bulk pricing and available specifications.
+
+[Browse DSIP & Related Products →](https://peptidesourcehub.net/products/nootropic-anti-aging/)
 ## Related Products
 
 | Product | Link |
@@ -128,4 +134,3 @@ Melatonin primarily regulates sleep timing (circadian phase shifting). DSIP prim
 - [All Product Specifications](index.md)
 - [COA & Purity Analysis Guide](../quality/coa-purity-analysis.md)
 - [Quality Control Framework](../quality/index.md)
-- [Main Website → DSIP](https://peptidesourcehub.net/products/dsip/)
