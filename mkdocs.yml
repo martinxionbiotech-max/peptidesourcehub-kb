@@ -78,7 +78,6 @@ extra:
 
 plugins:
   - search
-  - minify
 
 markdown_extensions:
   - admonition
