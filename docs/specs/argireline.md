@@ -1,6 +1,7 @@
 ---
 title: "Argireline — Technical Specification"
 description: "Factory-direct Argireline wholesale. CAS 616204-22-9, ~889.0 Da. ≥99% HPLC. Acetyl hexapeptide-8 — neurotransmitter release inhibitor. COA included."
+schema_type: TechArticle
 ---
 
 # Argireline

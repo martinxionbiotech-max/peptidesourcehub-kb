@@ -1,6 +1,7 @@
 ---
 title: "GHRP-2 — Technical Specification"
 description: "Factory-direct GHRP-2 wholesale. CAS 158861-67-7, ~817.0 Da. ≥99% HPLC. Potent GHS-R1a agonist. COA included."
+schema_type: TechArticle
 ---
 
 # GHRP-2

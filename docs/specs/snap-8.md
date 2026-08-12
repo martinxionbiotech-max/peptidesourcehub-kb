@@ -1,6 +1,7 @@
 ---
 title: "Snap-8 — Technical Specification"
 description: "Factory-direct Snap-8 wholesale. MW ~1,073.2 Da. ≥99% HPLC. Acetyl octapeptide-3 — SNAP-25 inhibitor. COA included."
+schema_type: TechArticle
 ---
 
 # Snap-8

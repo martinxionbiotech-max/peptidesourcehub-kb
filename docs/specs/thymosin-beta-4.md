@@ -1,6 +1,7 @@
 ---
 title: "Thymosin Beta-4 — Technical Specification"
 description: "Factory-direct Thymosin Beta-4 wholesale. CAS 77591-33-4, ~4,963.5 Da. ≥99% HPLC. Full-length tissue regeneration peptide. COA included."
+schema_type: TechArticle
 ---
 
 # Thymosin Beta-4

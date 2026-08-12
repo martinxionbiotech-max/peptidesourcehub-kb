@@ -1,6 +1,7 @@
 ---
 title: "Documentation Package — PeptideSourceHub"
 description: "Complete reference for the documentation package provided with every peptide order — COA, MSDS, commercial invoice, packing list, stability data, and extended documentation options."
+schema_type: TechArticle
 ---
 
 # Documentation Package

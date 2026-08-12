@@ -1,6 +1,7 @@
 ---
 title: "FOXO4-DRI — Technical Specification"
 description: "Factory-direct FOXO4-DRI wholesale. MW ~4,316.0 Da. ≥99% HPLC. Senolytic peptide — FOXO4-p53 disruption for senescent cell apoptosis. COA included."
+schema_type: TechArticle
 ---
 
 # FOXO4-DRI

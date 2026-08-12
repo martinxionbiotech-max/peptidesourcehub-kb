@@ -1,6 +1,7 @@
 ---
 title: "HGH — Technical Specification"
 description: "Human Growth Hormone (somatropin) lyophilized powder. CAS 12629-01-5, ~22125 Da. ≥99% HPLC purity. 191-amino acid polypeptide. 100/150/200 IU kit configurations. COA included. Tiered wholesale pricing."
+schema_type: TechArticle
 ---
 
 # HGH

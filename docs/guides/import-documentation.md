@@ -1,6 +1,7 @@
 ---
 title: "Import Documentation & Customs Guide"
 description: "Complete guide to import documentation requirements for research peptides, including commercial invoices, HS codes, COA, MSDS, and country-specific customs procedures."
+schema_type: TechArticle
 ---
 
 # Import Documentation & Customs Guide

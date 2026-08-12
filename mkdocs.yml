@@ -1,8 +1,9 @@
-site_name: PeptideSourceHub Technical Documentation
+site_name: PeptideSourceHub KB
 site_url: https://docs.peptidesourcehub.net
 site_description: Official technical documentation center for PeptideSourceHub — product specifications, quality control framework, regulatory guidance, and scientific references for research peptides.
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.expand

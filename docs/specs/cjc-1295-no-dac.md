@@ -1,6 +1,7 @@
 ---
 title: "CJC-1295 (no DAC) — Technical Specification"
 description: "Factory-direct CJC-1295 without DAC wholesale. CAS 863288-34-0, ~3,367.1 Da. ≥99% HPLC. Short-acting GHRH analogue. COA included."
+schema_type: TechArticle
 ---
 
 # CJC-1295 (no DAC)

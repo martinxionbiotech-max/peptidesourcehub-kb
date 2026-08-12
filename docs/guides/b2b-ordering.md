@@ -1,6 +1,7 @@
 ---
 title: "B2B Ordering Process & Wholesale Pricing"
 description: "Complete guide to PeptideSourceHub's B2B ordering workflow, tiered wholesale pricing, annual contracts, payment terms, and minimum order quantities."
+schema_type: TechArticle
 ---
 
 # B2B Ordering Process & Wholesale Pricing

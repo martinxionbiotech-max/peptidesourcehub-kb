@@ -1,6 +1,7 @@
 ---
 title: "DSIP — Technical Specification"
 description: "Factory-direct DSIP wholesale. CAS 62568-57-4, ~848.8 Da. ≥99% HPLC. Delta sleep-inducing peptide — sleep modulation. COA included."
+schema_type: TechArticle
 ---
 
 # DSIP

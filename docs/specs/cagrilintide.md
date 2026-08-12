@@ -1,6 +1,7 @@
 ---
 title: "Cagrilintide — Technical Specification"
 description: "Technical specification for Cagrilintide, a long-acting amylin analog for laboratory research in satiety, gastric emptying, and combination metabolic therapy."
+schema_type: TechArticle
 ---
 
 # Cagrilintide

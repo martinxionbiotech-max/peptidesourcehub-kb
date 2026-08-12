@@ -1,6 +1,7 @@
 ---
 title: "GHRP-6 — Technical Specification"
 description: "Factory-direct GHRP-6 wholesale. CAS 87616-84-0, ~873.0 Da. ≥99% HPLC. Ghrelin mimetic — strong GH release with orexigenic effects. COA included."
+schema_type: TechArticle
 ---
 
 # GHRP-6

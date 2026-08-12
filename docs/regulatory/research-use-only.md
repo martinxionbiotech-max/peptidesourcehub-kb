@@ -1,6 +1,7 @@
 ---
 title: "Research Use Only (RUO) Compliance"
 description: "Regulatory position and compliance framework for research-use-only (RUO) peptide products, including country-specific regulatory notes and classification guidance."
+schema_type: TechArticle
 ---
 
 # Research Use Only (RUO) Compliance

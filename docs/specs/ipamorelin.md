@@ -1,6 +1,7 @@
 ---
 title: "Ipamorelin — Technical Specification"
 description: "Factory-direct Ipamorelin wholesale. CAS 170851-70-4, ~711.9 Da. ≥99% HPLC. Selective GHS-R1a agonist. COA included."
+schema_type: TechArticle
 ---
 
 # Ipamorelin

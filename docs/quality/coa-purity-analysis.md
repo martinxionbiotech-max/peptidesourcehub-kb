@@ -1,6 +1,7 @@
 ---
 title: Certificate of Analysis & Purity Analysis — PeptideSourceHub
 description: Comprehensive guide to reading and verifying a Certificate of Analysis for research peptides. Covers all 10 COA fields, red flags, HPLC chromatogram interpretation, and peptide content vs purity.
+schema_type: TechArticle
 ---
 
 # Certificate of Analysis & Purity Analysis

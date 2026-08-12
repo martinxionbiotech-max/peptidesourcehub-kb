@@ -1,6 +1,7 @@
 ---
 title: "Mass Spectrometry Verification — PeptideSourceHub"
 description: "Technical guide to mass spectrometry for peptide molecular weight confirmation. ESI-MS, MALDI-TOF comparison, spectrum interpretation, and MS/MS sequence verification."
+schema_type: TechArticle
 ---
 
 # Mass Spectrometry for Peptide Verification

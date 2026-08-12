@@ -1,6 +1,7 @@
 ---
 title: "Advanced Analytical Characterization for Peptides — PeptideSourceHub"
 description: "Complete analytical characterization beyond HPLC/MS: amino acid analysis, peptide content, Karl Fischer, endotoxin USP 〈85〉, residual solvents ICH Q3C, elemental impurities ICH Q3D, aggregate detection, method validation ICH Q2(R1)."
+schema_type: TechArticle
 date: 2026-08-09
 author: "PeptideSourceHub Research Team"
 ---

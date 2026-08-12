@@ -1,6 +1,7 @@
 ---
 title: Quality Control Framework — PeptideSourceHub
 description: Multi-layer quality control framework covering in-process, release, and pre-shipment testing gates with full analytical methodology and documentation standards.
+schema_type: TechArticle
 ---
 
 # Quality Control Framework

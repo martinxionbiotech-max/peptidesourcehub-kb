@@ -1,6 +1,7 @@
 ---
 title: "Leuphasyl — Technical Specification"
 description: "Factory-direct Leuphasyl wholesale. MW ~623.7 Da. ≥99% HPLC. Pentapeptide-18 — δ-opioid receptor agonist. COA included."
+schema_type: TechArticle
 ---
 
 # Leuphasyl

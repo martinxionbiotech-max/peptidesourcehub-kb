@@ -1,6 +1,7 @@
 ---
 title: "Semax - Technical Specification"
 description: "Factory-direct Semax wholesale. CAS 80714-61-0, ~813.9 Da. ≥99% HPLC. BDNF/NGF upregulator - neuroprotection &amp; cognitive enhancement. COA included."
+schema_type: TechArticle
 ---
 
 # Semax

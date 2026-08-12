@@ -1,6 +1,7 @@
 ---
 title: "PEG-MGF — Technical Specification"
 description: "Factory-direct PEG-MGF wholesale. MW ~11,500 Da. ≥99% HPLC. PEGylated IGF-1Ec — satellite cell activation. COA included."
+schema_type: TechArticle
 ---
 
 # PEG-MGF

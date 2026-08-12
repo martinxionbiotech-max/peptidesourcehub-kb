@@ -1,6 +1,7 @@
 ---
 title: "Specialty Peptide Stacks — Technical Reference"
 description: "Technical reference for multi-peptide research stacks combining complementary peptides for synergistic investigation in metabolic, healing, anti-aging, and cosmetic research."
+schema_type: TechArticle
 ---
 
 # Specialty Peptide Stacks

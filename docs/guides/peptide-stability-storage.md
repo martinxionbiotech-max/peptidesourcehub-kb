@@ -1,6 +1,7 @@
 ---
 title: "Peptide Stability & Storage Guide — PeptideSourceHub"
 description: "Comprehensive stability and storage guide for research peptides: degradation pathways, ICH Q1A(R2) framework, storage conditions, freeze-thaw protocols, buffer selection, and container compatibility."
+schema_type: TechArticle
 date: 2026-08-09
 author: "PeptideSourceHub Research Team"
 ---

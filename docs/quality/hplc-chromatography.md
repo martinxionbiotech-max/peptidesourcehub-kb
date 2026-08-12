@@ -1,6 +1,7 @@
 ---
 title: HPLC Chromatography for Peptide Analysis — PeptideSourceHub
 description: Technical guide to high-performance liquid chromatography for peptide purity analysis. Covers reverse-phase methodology, peak interpretation, impurity types, and supplier evaluation.
+schema_type: TechArticle
 ---
 
 # HPLC Chromatography for Peptide Analysis

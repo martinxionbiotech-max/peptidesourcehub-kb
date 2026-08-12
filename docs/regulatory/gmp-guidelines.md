@@ -1,6 +1,7 @@
 ---
 title: "GMP Guidelines for Peptide Manufacturing — PeptideSourceHub"
 description: "Good Manufacturing Practice (GMP) principles applied to research peptide production — facility requirements, process validation, documentation, equipment qualification, and personnel training."
+schema_type: TechArticle
 ---
 
 # GMP Guidelines for Peptide Manufacturing

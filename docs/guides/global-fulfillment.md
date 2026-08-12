@@ -1,6 +1,7 @@
 ---
 title: "Global Fulfillment & Logistics"
 description: "Overview of PeptideSourceHub's global fulfillment operations, shipping carriers, transit times, temperature monitoring, customs documentation, and packaging standards."
+schema_type: TechArticle
 ---
 
 # Global Fulfillment & Logistics

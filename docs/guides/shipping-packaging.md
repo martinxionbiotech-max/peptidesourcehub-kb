@@ -1,6 +1,7 @@
 ---
 title: "Shipping & Packaging Standards"
 description: "Detailed standards for peptide shipping and packaging, including vacuum-sealed moisture barriers, insulated containers, temperature loggers, batch traceability, and carrier comparison."
+schema_type: TechArticle
 ---
 
 # Shipping & Packaging Standards

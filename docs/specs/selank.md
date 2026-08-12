@@ -1,6 +1,7 @@
 ---
 title: "Selank — Technical Specification"
 description: "Factory-direct Selank wholesale. CAS 129954-34-1, ~751.9 Da. ≥99% HPLC. Tuftsin analogue — anxiolytic without sedation. COA included."
+schema_type: TechArticle
 ---
 
 # Selank

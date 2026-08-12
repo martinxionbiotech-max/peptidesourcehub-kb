@@ -1,6 +1,7 @@
 ---
 title: "OEM, Custom Synthesis & Private Label"
 description: "Guide to PeptideSourceHub's OEM, custom synthesis, and private-label services including custom vial labels, kit boxes, insert documentation, branding options, and project timelines."
+schema_type: TechArticle
 ---
 
 # OEM, Custom Synthesis & Private Label

@@ -1,6 +1,7 @@
 ---
 title: "Retatrutide — Technical Specification"
 description: "Technical specification for Retatrutide, a triple GIPR/GLP-1R/GCGR receptor agonist, for metabolic and obesity research applications."
+schema_type: TechArticle
 ---
 
 # Retatrutide (LY3437943)

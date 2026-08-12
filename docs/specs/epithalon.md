@@ -1,6 +1,7 @@
 ---
 title: "Epithalon — Technical Specification"
 description: "Factory-direct Epithalon wholesale. CAS 307297-39-8, ~390.4 Da. ≥99% HPLC. Pineal tetrapeptide — telomerase activation for longevity research. COA included."
+schema_type: TechArticle
 ---
 
 # Epithalon

@@ -1,6 +1,7 @@
 ---
 title: "Product Specifications Overview — PeptideSourceHub"
 description: "Complete product specifications for 26 research peptides across 6 categories. Every product verified by HPLC ≥99% purity with mass spectrometry confirmation, manufactured since 2009 in Shenzhen, China."
+schema_type: TechArticle
 ---
 
 # Product Specifications

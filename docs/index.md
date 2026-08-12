@@ -1,6 +1,7 @@
 ---
 title: PeptideSourceHub Technical Documentation
 description: Official technical documentation for peptide researchers, procurement teams, and QA professionals covering product specifications, quality control, and regulatory guidance.
+schema_type: TechArticle
 ---
 
 # PeptideSourceHub Technical Knowledge Base

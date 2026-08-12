@@ -1,6 +1,7 @@
 ---
 title: "Batch Traceability System — PeptideSourceHub"
 description: "Technical documentation of the batch traceability system used in peptide manufacturing — lot numbering, audit trail, raw material mapping, and OEM batch number integration."
+schema_type: TechArticle
 ---
 
 # Batch Traceability System

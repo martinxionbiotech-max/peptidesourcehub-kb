@@ -1,6 +1,7 @@
 ---
 title: "Matrixyl — Technical Specification"
 description: "Factory-direct Matrixyl wholesale. CAS 214047-00-4, ~803.9 Da. ≥99% HPLC. Palmitoyl pentapeptide-4 — procollagen I signaling. COA included."
+schema_type: TechArticle
 ---
 
 # Matrixyl

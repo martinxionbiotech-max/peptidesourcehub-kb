@@ -1,6 +1,7 @@
 ---
 title: "Peptide Knowledge Base Glossary"
 description: "Comprehensive glossary of 40 key terms in peptide research, analytical methods, quality control, supply chain, and regulatory affairs for procurement and QA professionals."
+schema_type: TechArticle
 ---
 
 # Glossary of Terms

@@ -1,6 +1,7 @@
 ---
 title: "Industry Standards Reference — PeptideSourceHub"
 description: "Comprehensive reference of industry standards applicable to research peptide manufacturing — ISO 9001, GMP, USP, Ph.Eur., ICH Q7, and their relevance to quality assurance and regulatory compliance."
+schema_type: TechArticle
 ---
 
 # Industry Standards Reference

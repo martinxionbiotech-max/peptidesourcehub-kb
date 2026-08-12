@@ -1,6 +1,7 @@
 ---
 title: "Peptide Supplier Qualification Guide — PeptideSourceHub"
 description: "Comprehensive guide to qualifying peptide suppliers: pre-qualification checklist, COA auditing, batch record review, ISO 9001/17025 requirements, GMP compliance assessment, sample testing protocol, and red flag indicators."
+schema_type: TechArticle
 date: 2026-08-09
 author: "PeptideSourceHub Research Team"
 ---
