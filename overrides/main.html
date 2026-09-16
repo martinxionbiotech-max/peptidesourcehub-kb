@@ -24,7 +24,7 @@
   "name": "PeptideSourceHub",
   "legalName": "PeptideSourceHub",
   "url": "https://peptidesourcehub.net",
-  "logo": "https://peptidesourcehub.net/images/logo.svg",
+  "logo": "https://peptidesourcehub.net/images/logo.png",
   "foundingDate": "2009",
   "description": "Factory-direct research peptide manufacturer since 2009 — ≥99% purity, HPLC-verified, batch-traceable peptides for research laboratories and B2B procurement worldwide.",
   "address": {
@@ -36,7 +36,7 @@
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Sales",
-    "email": "info@peptidesourcehub.net"
+    "email": "aaronwong2023@gmail.com"
   },
   "knowsAbout": [
     "Peptide Synthesis",
@@ -48,10 +48,7 @@
     "Solid-Phase Peptide Synthesis"
   ],
   "sameAs": [
-    "https://peptidesourcehub.net",
-    "https://www.linkedin.com/company/peptidesourcehub",
-    "https://www.wikidata.org/wiki/Q_PENDING",
-    "https://twitter.com/PSH_Research"
+    "https://peptidesourcehub.net"
   ]
 }
 </script>
@@ -91,7 +88,12 @@
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "@id": "{{ config.site_url }}{{ page.url }}#faq",
-  "mainEntity": {{ page.meta.faq_json }}
+  "inLanguage": "en",
+  "mainEntity": [{% for item in page.meta.faq_json %}{
+    "@type": "Question",
+    "name": {{ item.q | tojson }},
+    "acceptedAnswer": {"@type": "Answer", "text": {{ item.a | tojson }}}
+  }{% if not loop.last %}, {% endif %}{% endfor %}]
 }
 </script>
 {% endif %}
